@@ -7,7 +7,7 @@
 
 -   Some examples from Excel library,
 
-    ``` {.java}
+    ```java
     static List<ExcelWriter> getTestWorkbookWriters() {
         val streaming = testWriter().isStreaming(true).build();
         val nonStreaming = testWriter().isStreaming(false).build();
@@ -21,9 +21,6 @@
         val sheetWriter = writer.getRowDataWriter("Oscars");
 
         sheetWriter.writeRow(Arrays.asList("Name", "Year", "Movie"));
-        sheetWriter.writeRow(Arrays.asList("Matthew McConaughey", 2014, "Dallas Buyers Club"));
-        sheetWriter.writeRow(Arrays.asList("Eddie Redmayne", 2015, "The Theory of Everything"));
-        sheetWriter.writeRow(Arrays.asList("Emil Jannings", 1928, "The Last Command,The Way of All Flesh"));
         sheetWriter.writeRow(Arrays.asList("Warner Baxter", 1929, "In Old Arizona"));
 
         ExcelSheetWriter sw = (ExcelSheetWriter) sheetWriter;
