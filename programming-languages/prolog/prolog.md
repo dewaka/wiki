@@ -1,5 +1,11 @@
 # Prolog
 
+## Resources
+
+- [Awesome Prolog](https://github.com/klaussinani/awesome-prolog)
+- [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/)
+- [The Power of Prolog](https://www.metalevel.at/prolog)
+
 ## Snippets
 
 - Classic factorial function,
