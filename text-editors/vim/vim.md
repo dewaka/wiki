@@ -16,4 +16,21 @@ I'm a big fan of modal editing and specifically Vim.
 ## Tips
 
 - Map `CapsLock` to `Esc`
+	
+  -	In Linux I've used [xmodmap](https://www.x.org/archive/X11R6.8.1/doc/xmodmap.1.html) based method
+	  for mapping for this.
+	
+		```conf
+		! Swap caps lock and escape
+		remove Lock = Caps_Lock
+		! keysym Escape = Caps_Lock
+		keysym Caps_Lock = Escape
+		add Lock = Caps_Lock
 
+		! Press both Shift keys to get Caps_Lock
+		keycode  50 = Shift_L Caps_Lock Shift_L Caps_Lock
+		keycode  62 = Shift_R Caps_Lock Shift_R Caps_Lock
+		```
+
+	- On macOS this could be done via settings - <https://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x>.
+	

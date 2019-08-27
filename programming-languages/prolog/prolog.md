@@ -4,7 +4,8 @@
 
 - [Awesome Prolog](https://github.com/klaussinani/awesome-prolog)
 - [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/)
-- [The Power of Prolog](https://www.metalevel.at/prolog)
+- [The Power of Prolog](https://www.metalevel.at/prolog) and the video
+  tutorials at [The Power of Prolog - YouTube](https://www.youtube.com/channel/UCFFeNyzCEQDS4KCecugmotg).
 
 ## Snippets
 
