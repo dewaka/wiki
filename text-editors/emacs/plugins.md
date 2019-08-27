@@ -18,3 +18,7 @@ within the current buffer's project. This is best explained via some examples,
 
 - `projectile-kill-buffers` - This command will close all the buffers of the
   current project you are working on.
+
+## Org Mode
+
+See [org-mode](org-mode.md).

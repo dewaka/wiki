@@ -29,6 +29,8 @@
     }
     ```
 
+> - TODO: To test exceptions
+
 JUnit parameterised tests still feel quite constrained compared to
 flexible ScalaTest etc. Thus for a big Java project, it might be worth
 looking at Groovy based [Spock framework](http://spockframework.org/)
