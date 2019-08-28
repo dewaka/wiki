@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Programming](programming)
+    - [Functional programming](programming/functional-programming)
+        - [Functional data structures](programming/functional-programming/data-structures)
 * [Programming languages](programming-languages)
 	- [Java](programming-languages/java/java.md)
 		- [Java libraries](programming-languages/java/libraries)
@@ -11,6 +14,7 @@
 		- [Python performance](programming-languages/python/performance.md)
 		- [Pipenv](programming-languages/python/pipenv.md)
 	- [Prolog](programming-languages/prolog/prolog.md)
+	- [Clojure](programming-languages/clojure/clojure.md)
 	- [Julia](programming-languages/julia/julia.md)
 * [Mindfullness](mindfullness)
     - [Flow](mindfullness/flow.md)
@@ -26,6 +30,8 @@
     - [macOS](operating-systems/macos)
       - [macOS tools](operating-systems/macos/tools)
 * [Sports](sports)
-	- [Running](sports/running.md)
+	- [Running](sports/running/running.md)
+		- [Running books](sports/running/books.md)
+		- [Running shoes](sports/running/shoes.md)
 	- [Chess](sports/chess.md)
 
