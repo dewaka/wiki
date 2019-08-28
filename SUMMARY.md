@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Programming](programming)
     - [Functional programming](programming/functional-programming)
-        - [Functional data structures](programming/functional-programming/data-structures)
+        - [Functional data structures](programming/functional-programming/data-structures.md)
 * [Programming languages](programming-languages)
 	- [Java](programming-languages/java/java.md)
 		- [Java libraries](programming-languages/java/libraries)
