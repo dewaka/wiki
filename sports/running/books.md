@@ -22,6 +22,8 @@ There are many other motivating running books which I'm yet to read!
 
 ## Running know how
 
-- Jack Daniels' Running Formula - I have _not_ read this book cover to cover,
+- [Daniels' Running Formula](https://www.goodreads.com/book/show/112152.Daniels_Running_Formula) -
+  Jack Daniels' Running Formula - I have _not_ read this book cover to cover,
   but this is one of the most well regarded books on scientific training plans
   you can find.
+- [Lore of Running](https://www.goodreads.com/book/show/112160.Lore_of_Running)
