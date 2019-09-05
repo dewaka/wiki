@@ -15,7 +15,17 @@ However, with evil-mode one can easily use Emacs editing functionality as well
 which comes with the downside of haing to learn two disparate kind of editing
 paradigmns.
 
-## Resources
+## Configuration distributions
+
+### Spacemacs
+
+This is what I have been using for a couple of years and I would recommend this
+someome wanting to transition from Vim to an Emacs workflow.
+
+### Doom Emacs
+
+I have been trying this configuration package recently and I am quite impressed
+with the low startup overhead of the Doom configuration.
 
 ### Blogs
 

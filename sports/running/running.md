@@ -19,6 +19,7 @@ all these techniques promotes,
 
 - [Principles of Natural Running with Dr. Mark Cucuzzella](https://www.youtube.com/watch?v=zSIDRHUWlVo) - This is probably
   the best instructional video on _natural running_ I've come across thus far.
+  Also other videos in this channel are highly recommended [NaturalRunningCenter](https://www.youtube.com/user/NaturalRunningCenter).
 - [Observations on good running technique with Olympian Victoria Mitchell](https://www.youtube.com/watch?v=EVH2qOwZd18) - This is also a pretty
   good video on elements of good running technique.
 - [Chris Erichsen - Mile Repeats - 2011 USA Olympic Marathon Trials](https://www.youtube.com/watch?v=tLKkx5yYZes) - Really nice form and

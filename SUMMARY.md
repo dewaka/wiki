@@ -35,6 +35,8 @@
     - [Linux](operating-systems/linux)
       - [Linux tools](operating-systems/linux/tools)
         - [sxhkd](operating-systems/linux/tools/sxhkd.md)
+        - [playerctl](operating-systems/linux/tools/playerctl.md)
+        - [fish](operating-systems/linux/tools/fish.md)
     - [macOS](operating-systems/macos)
       - [macOS tools](operating-systems/macos/tools)
         - [Hammerspoon](operating-systems/macos/tools/hammerspoon.md)
