@@ -4,6 +4,7 @@
 * [Programming](programming)
     - [Functional programming](programming/functional-programming)
         - [Functional data structures](programming/functional-programming/data-structures.md)
+        - [Algebraic Effects](programming/functional-programming/algebraic-effects.md)
 * [Programming languages](programming-languages)
 	- [Java](programming-languages/java/java.md)
 		- [Java libraries](programming-languages/java/libraries)
