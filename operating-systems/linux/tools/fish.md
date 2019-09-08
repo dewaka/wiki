@@ -1,8 +1,29 @@
-# sxhkd
+# fish shell
+
+[fish](https://fishshell.com) is a non-POSIX commplient shell which I find to be
+really good for day to day use.
 
 ## Managing fish plugins
 
 - fisher - plugin manager
+
+## Miscellaneous tips
+
+- Directory variables
+
+  ```fish
+  # Useful directories
+  set -x Dropbox   $HOME/Dropbox
+  set -x Projects  $Dropbox/Projects
+  ```
+  
+  This makes it pretty easy to run commands regardless of the current working
+  directory. Example, to search for all files with `__main__` in projects
+  directory,
+  
+  ```fish
+  rg '__main__'  $Projects
+  ```
 
 ## Useful functions
 
@@ -31,3 +52,13 @@
   aliases. Thus above command can be shortened to, `rd $Notes gs` in my
   configuration.
   
+- Create directory and `cd` into it,
+
+  ```fish
+  # From - http://unix.stackexchange.com/questions/125385/combined-mkdir-and-cd
+  function mkcd --argument-names 'path'
+    if test -n "$path"
+      mkdir -p -- "$path"; and cd "$path"
+    end
+  end
+  ```

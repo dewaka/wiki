@@ -32,4 +32,10 @@ I'm a big fan of modal editing and specifically Vim.
 		```
 	- On macOS this could be done via settings -
 	  <https://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x>.
-	
+- Appending result from an external command to the buffer -
+  <https://vim.fandom.com/wiki/Append_output_of_an_external_command>
+  
+  `read !<external command>`
+  
+  For example, to get CPU info into the current buffer, `read !cat /proc/cpuinfo`.
+
