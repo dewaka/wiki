@@ -7,6 +7,7 @@
         - [Algebraic Effects](programming/functional-programming/algebraic-effects.md)
     - [Source control](programming/source-control)
         - [Git](programming/source-control/git.md)
+    - [Unicode](programming/unicode.md)
 * [Programming languages](programming-languages)
 	- [Java](programming-languages/java/java.md)
 		- [Java libraries](programming-languages/java/libraries)

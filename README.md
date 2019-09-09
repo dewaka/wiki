@@ -7,4 +7,5 @@ See [summary](SUMMARY.md) for an overview of the wiki.
 
 ## License
 
-Content is licensed by [CC0 1.0 Universal](LICENSE) license.
+Content is licensed by 
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) license.
