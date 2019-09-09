@@ -8,4 +8,5 @@
 
 ## Tips
 
-- Undoing a `git add` before commit - <https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit>.
+- Undoing a `git add` before commit -
+  <https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit>.
