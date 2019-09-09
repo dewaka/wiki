@@ -38,4 +38,6 @@ I'm a big fan of modal editing and specifically Vim.
   `read !<external command>`
   
   For example, to get CPU info into the current buffer, `read !cat /proc/cpuinfo`.
-
+- Format JSON,
+  - with `python` - `:%!python -m json.tool`
+  - with `jq` tool - `:%!jq '.'`
