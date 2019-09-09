@@ -2,5 +2,11 @@
 
 ## Capture Templates
 
-So much to write about capture templates.
+- Capturing in a datetree format,
 
+  ```elisp
+  ("i" "Ideas" entry
+   (file+olp+datetree (lambda () (concat org-directory "/ideas.org")))
+   "** %^{Heading}")
+  ```
+  

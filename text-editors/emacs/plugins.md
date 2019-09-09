@@ -22,3 +22,8 @@ within the current buffer's project. This is best explained via some examples,
 ## Org Mode
 
 See [org-mode](org-mode.md).
+
+### Org mode enhacements
+
+- [org-cliplink](https://github.com/rexim/org-cliplink) - this plugin is pretty
+  useful to paste nicely formatted links into an org-mode buffer.
