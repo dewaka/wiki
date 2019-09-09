@@ -16,6 +16,7 @@
 		- [Benchmarking Scala](programming-languages/scala/benchmarking.md)
 	- [Haskell](programming-languages/haskell/haskell.md)
 		- [Haskell tools](programming-languages/haskell/tools)
+	- [Rust](programming-languages/rust/rust.md)
 	- [C++](programming-languages/cpp/cpp.md)
 		- [C++ tools](programming-languages/cpp/tools)
 			- [Valgrind](programming-languages/cpp/tools/valgrind.md)
