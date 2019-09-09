@@ -5,6 +5,8 @@
     - [Functional programming](programming/functional-programming)
         - [Functional data structures](programming/functional-programming/data-structures.md)
         - [Algebraic Effects](programming/functional-programming/algebraic-effects.md)
+    - [Source control](programming/source-control)
+        - [Git](programming/source-control/git.md)
 * [Programming languages](programming-languages)
 	- [Java](programming-languages/java/java.md)
 		- [Java libraries](programming-languages/java/libraries)
