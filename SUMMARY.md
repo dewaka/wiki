@@ -46,6 +46,7 @@
 * [Technology](technology)
     - [Search engines](technology/search-engines)
         - [Google](technology/search-engines/google.md)
+        - [DuckDuckGo](technology/search-engines/duckduckgo.md)
 * [Sports](sports)
 	- [Running](sports/running/running.md)
 		- [Running books](sports/running/books.md)
