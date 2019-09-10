@@ -50,3 +50,5 @@ I'm a big fan of modal editing and specifically Vim.
   " convert the existing buffer
   :retab
   ```
+  
+  Another option to would be to _reindent_ the whole file with `gg=G`.
