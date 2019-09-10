@@ -41,3 +41,12 @@ I'm a big fan of modal editing and specifically Vim.
 - Format JSON,
   - with `python` - `:%!python -m json.tool`
   - with `jq` tool - `:%!jq '.'`
+- Change `Tabs` to `Spaces` -
+  <https://stackoverflow.com/questions/426963/replace-tabs-with-spaces-in-vim>
+  
+  ```vim
+  " settings for tabs
+  :set tabstop=2 shiftwidth=2 expandtab
+  " convert the existing buffer
+  :retab
+  ```
