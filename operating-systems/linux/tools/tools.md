@@ -10,6 +10,10 @@
 
 - [fish](fish.md)
 
+## Command line browsers
+
+- [w3m](w3m.md)
+
 ## Miscellaneous tools
 
 - [sxhkd](sxhkd.md)
