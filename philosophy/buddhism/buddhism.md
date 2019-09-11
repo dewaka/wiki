@@ -1,1 +1,1 @@
-**Buddhist philosophy** 
+# Buddhist philosophy
