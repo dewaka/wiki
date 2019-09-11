@@ -79,6 +79,8 @@
 * [Literature](literature/literature.md)
   - [Western literature](literature/western.md)
   - [Oriental literature](literature/oriental.md)
+* [Devops](devops/devops.md)
+  - [Ansible](devops/ansible.md)
 * [Music](music/music.md)
   - [Classical](music/classical/classical.md)
     - [Western classical music](music/classical/western.md)

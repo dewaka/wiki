@@ -10,3 +10,5 @@
   !crates webgl
   !rust vector
   ```
+
+- [Search syntax](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)

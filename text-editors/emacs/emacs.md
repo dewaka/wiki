@@ -31,4 +31,7 @@ with the low startup overhead of the Doom configuration.
 
 - [Xah Emacs Blog](http://ergoemacs.org/emacs/blog.html)
 - [Emacs Rocks](http://emacsrocks.com/)
+- [Sacha Chua - Emacs](https://sachachua.com/blog/category/emacs/) - Sacha's
+  blog has a treasure trove of Emacs knowledge both written by herself and
+  aggregated links.
 

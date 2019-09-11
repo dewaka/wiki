@@ -25,3 +25,8 @@ all these techniques promotes,
 - [Chris Erichsen - Mile Repeats - 2011 USA Olympic Marathon Trials](https://www.youtube.com/watch?v=tLKkx5yYZes) - Really nice form and
   just the ambience of the running video makes you want to go for a run, at
   least in my case!
+
+## Barefoot running
+
+- [reddit - BarefootRunning](https://www.reddit.com/r/BarefootRunning/) is a
+  good community to learn more on this topic.
