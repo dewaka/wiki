@@ -49,6 +49,8 @@
       - [Samatha](mindfullness/meditation/samatha.md)
       - [Vipassana](mindfullness/meditation/vipassana.md)
     - [Flow](mindfullness/flow.md)
+* [LLVM](llvm/llvm.md)
+  - [Clang tools](llvm/clang-tools.md)
 * [Operating systems](operating-systems/os.md)
 * [Linux](linux/linux.md)
   - [Linux tools](linux/tools/tools.md)

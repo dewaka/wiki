@@ -1,1 +1,1 @@
-# Functional programming papers 
+# Functional Programming Papers 
