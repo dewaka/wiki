@@ -7,4 +7,6 @@
 - [Hide menu](https://packagecontrol.io/packages/Hide%20Menu) - this plugin is
   pretty useful if you are fan of clean uncluttered looks. Sublime Text's hide
   menu behaviour does not rollover to newly created windows and this plugin
-  /solves/ that problem.
+  _solves_ that problem.
+- [TabNine](https://tabnine.com) - TabNine's smart code completion works quite
+  nicely in Sublime Text, as well.

@@ -10,3 +10,8 @@
 
 - Undoing a `git add` before commit -
   <https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit>.
+- Removing untracked files -
+  <https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1>
+  
+  - `git clean -n` - to check which files will be deleted.
+  - `git clean -f` - to delete untracked files.
