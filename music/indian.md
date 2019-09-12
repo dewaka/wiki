@@ -1,5 +1,8 @@
 # Hindi Music
 
+Due to close proximity and cultural influence, I have grown up with a strong
+influence on Indian (esp. Hindi) music.
+
 ## Some favourite artists and albums
 
 - A. R. Rahman

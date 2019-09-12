@@ -1,5 +1,9 @@
 # Prolog
 
+## Books
+
+- [Clause and Effect: PROLOG Programming for the Working Programmer](https://www.goodreads.com/en/book/show/1242949)
+
 ## Resources
 
 - [Awesome Prolog](https://github.com/klaussinani/awesome-prolog)

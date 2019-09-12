@@ -13,6 +13,12 @@
   In the NERDTree buffer press `m` to bring up the Filesystem menu and from the menu you can create a new _node_, and a node here is either a file or a directory. To create a directory
   append `/` to the filename. Source - [Creating a new file or directory in Vim using NERDTree](https://sookocheff.com/post/vim/creating-a-new-file-or-directoryin-vim-using-nerdtree/).
   
+## tpope plugins
+
+- [unimpaired.vim: Pairs of handy bracket mappings](https://github.com/tpope/vim-unimpaired)
+- [https://github.com/tpope/vim-commentary](https://github.com/tpope/vim-commentary) - there are other good
+  commenting plugins out there, but this is the one I'm currently using.
+  
 ## Light line
 
 - This is my preferred status indicator plugin mostly due to the lightweight nature.

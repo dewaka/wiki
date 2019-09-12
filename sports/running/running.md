@@ -14,6 +14,24 @@ all these techniques promotes,
 - Slight forward lean - although this is not too important. The important part
   is getting your body slightly forward or just underneath when you land on your
   forward strike.
+  
+## General advice
+
+This is some advice which has worked for _me_. Everybody is different and you
+shouldn't take this advice as the last word and do your own research. Also
+following advice is from a perspective of a recreational runner who almost never
+does races!
+- Start by running slowly. If starting after a long period of inactivity or
+  starting recreational running for the first time, then even running as low as
+  15 minutes is good enough.
+- In the beginning aim for running short distances (or based on time), but aim
+  to run consistently. Running 4 to 5 times a week would be a good target.
+- For rest days, which are important, try to get some strength training based on
+  especially targeting muscles you find weak. Your body aches would be a pretty
+  good guide here!
+- Slowly increase weekly mileage. I think early on consistency on how often you
+  run is more important than mileage, unless you are specifically training for
+  an event.
 
 ## Instructional videos
 
