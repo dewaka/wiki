@@ -9,7 +9,7 @@
     - [Concurrency](programming/concurrency.md)
     - [Unicode](programming/unicode.md)
     - [Hashing](programming/hashing.md)
-    - [Competitive Programming](programming/competitive/competitive.md)
+* [Competitive Programming](competitive-programming/competitive.md)
 * [Source control](source-control/source-control.md)
 		- [Git](source-control/git.md)
 * [Programming languages](programming-languages)
