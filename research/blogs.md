@@ -21,3 +21,5 @@
 - [Victor Zverovich](http://www.zverovich.net/) - author of [C++ fmt](https://fmt.dev/latest/index.html) 
   library, soon to be `std::format` in C++20
 - [David Nolen](http://swannodette.github.io/) - prominent Clojure developer.
+- [Dan Luu](https://danluu.com) - is full with well researched articles on a
+  myriad of topics.
