@@ -4,6 +4,8 @@
 
 - [Cython](https://cython.readthedocs.io/en/latest/) - using Cython to optimise
   latency critical code in existing Python codebases.
+- Changed Emacs configuration from Spacemacs to Doom Emacs. I do like the faster
+  startup of the Doom config. Still getting used to the ~ivy~
 
 ## Coding
 

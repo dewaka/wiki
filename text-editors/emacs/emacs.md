@@ -22,7 +22,7 @@ paradigmns.
 This is what I have been using for a couple of years and I would recommend this
 someome wanting to transition from Vim to an Emacs workflow.
 
-### Doom Emacs
+### [Doom Emacs](doom.md)
 
 I have been trying this configuration package recently and I am quite impressed
 with the low startup overhead of the Doom configuration.
