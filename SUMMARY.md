@@ -127,4 +127,6 @@
     - [Running shoes](sports/running/shoes.md)
   - [Chess](sports/chess.md)
   - [Hiking](sports/hiking/hiking.md)
-
+* [Log](log/log.md)
+  - [2019](log/2019/2019.md)
+    - [September](log/2019/september.md)
