@@ -3,7 +3,7 @@
 ## Favourite blogs
 
 - [Paul Graham](http://www.paulgraham.com/articles.html) -
-  [On Lisp](https://www.goodreads.com/book/show/41803.On_Lisp) is probably the
+  [On Lisp](https://www.goodreads.com/book/show/41803.On_Lisp) is probably _the_
   book which got me interested in programming, esp. Lisp in particular as a
   school kid. Of course his essays are some of the best ones I've come across in
   startup/technical space.
@@ -18,3 +18,6 @@
 - [Sacha Chua](https://sachachua.com/) - awesome Emacs and life tips
 - [Juan Pedro Bolivar Puente](https://sinusoid.es) - author of C++
   [immer](https://sinusoid.es/immer/) library
+- [Victor Zverovich](http://www.zverovich.net/) - author of [C++ fmt](https://fmt.dev/latest/index.html) 
+  library, soon to be `std::format` in C++20
+- [David Nolen](http://swannodette.github.io/) - prominent Clojure developer.

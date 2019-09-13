@@ -4,8 +4,11 @@
 
 - [Cython](https://cython.readthedocs.io/en/latest/) - using Cython to optimise
   latency critical code in existing Python codebases.
+- Minimal perfect hashing.
+- [Programming by Optimisation](http://www.prog-by-opt.net/).
 - Changed Emacs configuration from Spacemacs to Doom Emacs. I do like the faster
-  startup of the Doom config. Still getting used to the ~ivy~
+  startup of the Doom config. Still getting used to the `ivy`, `counsel` and
+  `swyper`. (Ref. [Ivy, Counsel and Swiper](https://writequit.org/denver-emacs/presentations/2017-04-11-ivy.html)).
 
 ## Coding
 
@@ -21,6 +24,7 @@
 
 ## Activities
 
+- Started a [personal wiki](https://wiki.dewaka.com)!
 - Relatively better month for running. Last two months were terrible by my usual
   standards. Sticked to shorter 7k runs in the morning to increase weekly
   mileage slowly.

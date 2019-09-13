@@ -120,6 +120,7 @@
   - [Popular music](music/popular.md)
   - [Sinhala music](music/sinhala.md)
   - [Indian music](music/indian.md)
+* [Podcasts](podcasts/podcasts.md)
 * [Movies](movies/movies.md)
 * [TV Series](tv/tv.md)
 * [Sports](sports/sports.md)
