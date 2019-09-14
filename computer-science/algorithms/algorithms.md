@@ -1,2 +1,3 @@
 # Algorithms
 
+- [Hashing](hashing.md)

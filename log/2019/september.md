@@ -34,3 +34,15 @@
   
   I don't think the faster format is really the best format for improving Chess,
   but that's the format which I enjoy most due to quick games.
+- New album from Lana Del Rey, [Norman Fucking Rockwell!](https://www.last.fm/music/Lana+Del+Rey/Norman+Fucking+Rockwell!),
+  quickly became a favourite albums from 2019 for me.
+- Discovered [Mazzy Star](https://www.last.fm/music/Mazzy+Star). Kind of
+  surprised, that I hadn't come across music from this artist before!
+- [Anoushka Shankar](https://www.last.fm/music/Anoushka+Shankar) - she's the
+  _other_ daughther of Ravi Shankar. [Traces Of You](https://open.spotify.com/album/2YIGIiMYhsnDSeot1MQm0H?si=fojlgpQOSbOEPUV527oBIQ)
+  album was new to me and I especially like this collobaration with her more
+  famous sister Norah Jones! - 
+  [Unsaid (feat. Norah Jones)](https://open.spotify.com/track/3e03CLC7vOiAZzzLB3l54t?si=EHuOAMGHTomHoY2gAW--3A).
+  I think the Sitar is really powerful here in accentuating the sad melancholy
+  of the song. 
+  
