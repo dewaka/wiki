@@ -23,9 +23,12 @@ regular rotation are 0mm-6mm in stack height range.
 
 ## Favourites
 
-- Saucony Kinvara - 4mm drop, neutral training type of shoe has been a staple
-- New Balance Fresh Foam Zante - These are probably my all time favourite
-  running shoes which I have tried so far.
+- Saucony Kinvara - 4mm drop, neutral training type of shoe has been a staple in
+  my rotation for a couple of years now. Usually I manage to get 1000k+ mileage
+  out of them.
+- New Balance Fresh Foam Zante - Quite similar to Kinvara. I liked the first
+  version so much that I had about 4 pairs of them. They are very comfortable
+  even for both long runs and speedy runs alike for me.
 - Vibram Bikila - I do not run in these shoes regularly, but time to time I like
   to run in them if I feel like I'm regressing when it comes to good foot strike
   patterns (for me). These shoes are pretty good to get a "natural" running

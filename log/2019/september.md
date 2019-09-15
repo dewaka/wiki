@@ -20,7 +20,10 @@
 ## Reading
 
 - Got the poetry bug and read a couple of poetry selections from [Mary Oliver](https://www.goodreads.com/author/show/23988.Mary_Oliver) 
-  and selected poems book from Robert Frost which I could find in project Gutenberg.
+  and selected poems book from Robert Frost, which I could find in project Gutenberg.
+- [How Google Works by Eric Schmidt](https://www.goodreads.com/book/show/23158207-how-google-works) -
+  although not much content from the book was brand new to me, I still liked the
+  book.
 
 ## Activities
 
@@ -37,7 +40,7 @@
 - New album from Lana Del Rey, [Norman Fucking Rockwell!](https://www.last.fm/music/Lana+Del+Rey/Norman+Fucking+Rockwell!),
   quickly became a favourite albums from 2019 for me.
 - Discovered [Mazzy Star](https://www.last.fm/music/Mazzy+Star). Kind of
-  surprised, that I hadn't come across music from this artist before!
+  surprised that I hadn't come across music from this artist before!
 - [Anoushka Shankar](https://www.last.fm/music/Anoushka+Shankar) - she's the
   _other_ daughther of Ravi Shankar. [Traces Of You](https://open.spotify.com/album/2YIGIiMYhsnDSeot1MQm0H?si=fojlgpQOSbOEPUV527oBIQ)
   album was new to me and I especially like this collobaration with her more
