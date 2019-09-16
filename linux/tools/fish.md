@@ -24,6 +24,7 @@ really good for day to day use.
   ```fish
   rg '__main__'  $Projects
   ```
+- `Alt+Back` - to go back in directory history and `Alt+Right` to forward.
 
 ## Useful functions
 

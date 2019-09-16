@@ -52,3 +52,9 @@ I'm a big fan of modal editing and specifically Vim.
   ```
   
   Another option to would be to _reindent_ the whole file with `gg=G`.
+- Enabling mouse scroll support -
+  <https://stackoverflow.com/questions/7225057/use-mouse-scroll-wheel-in-vim>.
+
+  ```
+  set mouse=a
+  ```

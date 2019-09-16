@@ -40,9 +40,16 @@ does races!
   Also other videos in this channel are highly recommended [NaturalRunningCenter](https://www.youtube.com/user/NaturalRunningCenter).
 - [Observations on good running technique with Olympian Victoria Mitchell](https://www.youtube.com/watch?v=EVH2qOwZd18) - This is also a pretty
   good video on elements of good running technique.
+- [Back To The Future Of Running, Training Technique](https://www.youtube.com/watch?v=jVxY8Wh8I90)
+  
+## Motivational Videos
+
 - [Chris Erichsen - Mile Repeats - 2011 USA Olympic Marathon Trials](https://www.youtube.com/watch?v=tLKkx5yYZes) - Really nice form and
   just the ambience of the running video makes you want to go for a run, at
   least in my case!
+- [Ben True - The Lone Wolf](https://www.youtube.com/watch?v=6GYaOhue4B8)
+- [Seb Coe](https://www.youtube.com/watch?v=2Vb_m5THiPQ)
+- [Ryan Hall - Training Day](https://www.youtube.com/watch?v=0ZGlH_paK9Y)
 
 ## Barefoot running
 
