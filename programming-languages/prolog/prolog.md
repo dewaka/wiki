@@ -49,3 +49,17 @@
       Next_B is A + B,
       tfib(Next_N, Next_A, Next_B, N_Fib).
   ```
+- Aggregate counting in SWI-Prolog,
+  
+  ```prolog
+  likes(jimmy, anna).
+  likes(paul, anna).
+  likes(jimmy, paul).
+
+  popular(X) :- aggregate(count, Y^likes(Y,X), N), N > 1.
+  ```
+  
+  Here, `popular` function checks whether given person is liked by more than one
+  person. In the definition `Y` is existentionally qualified.
+  
+  References - <https://stackoverflow.com/questions/5930340/aggregate-3-in-swi-prolog/5930420>

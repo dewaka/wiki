@@ -78,6 +78,7 @@
 * [CLI](cli/cli.md)
   - [ripgrep](cli/ripgrep.md)
   - [fd](cli/fd.md)
+  - [tldr](cli/tldr.md)
 * [Technology](technology/technology.md)
     - [Search](technology/search/search.md)
         - [Google](technology/search/google.md)
