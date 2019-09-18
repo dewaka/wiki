@@ -1,7 +1,7 @@
 # Research Papers
 
-- [Computer Science](cs.md)
-- [Psychology](psychology.md)
+- [Computer Science](cs/cs.md)
+- [Psychology](psychology/psychology.md)
 
 ## Links
 
