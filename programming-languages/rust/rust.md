@@ -9,3 +9,7 @@
 
 - This is a really nice post by Bryan Cantrill - 
   [The Observation Deck » The relative performance of C and Rust](http://dtrace.org/blogs/bmc/2018/09/28/the-relative-performance-of-c-and-rust/).
+  
+## Papers
+
+- [Papers Rust is borrows heavily from](https://doc.rust-lang.org/1.2.0/book/academic-research.html)
