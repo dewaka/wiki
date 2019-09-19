@@ -85,6 +85,7 @@
   - [Windows tools](windows/tools/tools.md)
     - [AutoHotkey](windows/tools/autohotkey.md)
 * [CLI](cli/cli.md)
+  - [tmux](cli/tmux.md)
   - [ripgrep](cli/ripgrep.md)
   - [fd](cli/fd.md)
   - [tldr](cli/tldr.md)
