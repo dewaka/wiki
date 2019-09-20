@@ -91,6 +91,7 @@
   - [tmux](cli/tmux.md)
   - [ripgrep](cli/ripgrep.md)
   - [fd](cli/fd.md)
+  - [bat](cli/bat.md)
   - [tldr](cli/tldr.md)
 * [Technology](technology/technology.md)
     - [Search](technology/search/search.md)
