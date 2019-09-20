@@ -115,6 +115,7 @@
   - [Theravada](buddhism/theravada/theravada.md)
   - [Mahayana](buddhism/mahayana/mahayana.md)
     - [Zen](buddhism/mahayana/zen/zen.md)
+      - [Zen Koans](buddhism/mahayana/zen/koans.md)
 * [Psychology](psychology/psychology.md)
   - [CBT](psychology/cbt.md)
   - [Cognitive biases](psychology/biases.md)
