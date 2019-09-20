@@ -10,4 +10,6 @@
   Dhamma is often compared as a raft to cross the river (Samsara) - achieving
   Nirvana (or Nibbana, in Pali). One would be foolish to carry with himself the
   raft once they cross the river.
+  
+  Thich Nhat Hanh's quote on the same subject - [Quote by Thich Nhat Hanh: “Bhikkhus, the teaching is merely a vehicle to describe the truth”](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the)
 
