@@ -137,6 +137,8 @@
   - [Computer Science](papers/cs/cs.md)
     - [Higher-order logic programming in Prolog](papers/cs/naish95higher-orderlogic.md)
   - [Psychology](papers/psychology/psychology.md)
+* [Courses](courses/courses.md)
+  - [Computer Science](courses/cs.md)
 * [Devops](devops/devops.md)
   - [Ansible](devops/ansible.md)
 * [Music](music/music.md)
