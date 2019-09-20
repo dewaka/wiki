@@ -1,5 +1,8 @@
 # Buddhism
 
+I found that BBC's guide on Buddhism to be quite good for a complete beginner -
+[BBC - Religion: Buddhism](https://www.bbc.co.uk/religion/religions/buddhism/).
+
 - [Theravada](theravada/theravada.md)
 - [Mahayana](mahayana/mahayana.md)
 

@@ -134,6 +134,7 @@
   - [Blogs](research/blogs.md)
 * [Papers](papers/papers.md)
   - [Computer Science](papers/cs/cs.md)
+    - [Higher-order logic programming in Prolog](papers/cs/naish95higher-orderlogic.md)
   - [Psychology](papers/psychology/psychology.md)
 * [Devops](devops/devops.md)
   - [Ansible](devops/ansible.md)
