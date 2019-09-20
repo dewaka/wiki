@@ -63,3 +63,20 @@
   person. In the definition `Y` is existentionally qualified.
   
   References - <https://stackoverflow.com/questions/5930340/aggregate-3-in-swi-prolog/5930420>
+- Higher order functions,
+
+  ```prolog
+  double(X, Y) :- Y is X + X.
+  pow2(X, Y) :- Y is X * X.
+  
+  map([], _, []).
+  map([X|Xs], P, [Y|Ys]) :-
+  call(P, X, Y),
+  map(Xs, P, Ys).
+  ```
+- Checking whether a predicate exists -
+  https://stackoverflow.com/questions/12886179/prolog-how-to-check-if-a-predicate-exists.
+  
+  ```prolog
+  current_predicate(map/3). ;; checks whether map which takes 3 parameters exists
+  ```
