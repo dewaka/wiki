@@ -13,3 +13,7 @@
 
 - [How to Get Your Brain to Focus | Chris Bailey | TEDxManchester](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y) - This talk is
   about finding Flow state by cutting distractions.
+
+## Posts
+
+- [9 Steps to Achieving Flow (and Happiness) in Your Work](https://zenhabits.net/guide-to-achieving-flow-and-happiness-in-your-work/)

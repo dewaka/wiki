@@ -2,6 +2,8 @@
 
 ## Favourite blogs
 
+### Computing and Technology
+
 - [Paul Graham](http://www.paulgraham.com/articles.html) -
   [On Lisp](https://www.goodreads.com/book/show/41803.On_Lisp) is probably _the_
   book which got me interested in programming, esp. Lisp in particular as a
@@ -23,3 +25,12 @@
 - [David Nolen](http://swannodette.github.io/) - prominent Clojure developer.
 - [Dan Luu](https://danluu.com) - is full with well researched articles on a
   myriad of topics.
+- [The ryg blog | When I grow up I'll be an inventor](https://fgiesen.wordpress.com/) - 
+  Blog of Fabian Giesen which is full of articles on high performance computing.
+- [Blog | Paul Cavallaro](https://paulcavallaro.com/) - Another blogger with
+  very good high performance computing articles and writeups about research
+  papers in same areas.
+
+### Philosophy
+
+- [Zen habits - Leo Babauta](https://zenhabits.net/)
