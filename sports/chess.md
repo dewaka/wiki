@@ -14,6 +14,17 @@
   However, Blitz at that level is a very poor format for actual learning because
   things happen too quickly for beginner or even intermediate level players at
   Hikaru's level.
+- Matthew Sadler's videos on AlphaZero play against Stockfish in chess24
+  network's YouTube channel are very interesting due to AlphaZero's novelties in
+  very well studied positions to outplay traditional engines like Stockfish. One
+  good example of innovative, almost _alien_ play by AlphaZero is 
+  ["Long-term Sacrifice" | DeepMind's AlphaZero vs. Stockfish](https://www.youtube.com/watch?v=JacRX6cKIaY).
+  
+
+  
+## Courses
+
+- [Masterclass - Garry Kasparov teaches Chess](https://www.masterclass.com/classes/garry-kasparov-teaches-chess)
 
 ## Resources
 
