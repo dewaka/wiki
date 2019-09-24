@@ -71,3 +71,27 @@
   ```prolog
   current_predicate(map/3). ;; checks whether map which takes 3 parameters exists
   ```
+- Define contains based on append function,
+  ```prolog
+  append([], Ys, Ys).
+  append([X|Xs], Ys, [X|Zs]) :- append(Xs, Ys, Zs).
+
+  prefix(P, L) :- append(P, _, L).
+  suffix(S, L) :- append(_, S, L).
+
+  contains(SubL, L) :- suffix(S, L), prefix(SubL, S), !.
+  ```
+- Palindrome check in Prolog is quite nice,
+  ```prolog
+  palindrome(Xs) :- reverse(Xs, Xs).
+  ```
+
+  In a restricted set, we can even use this declarative definition to generate
+  palindromes, as in the following example!
+  
+  ```prolog
+  member(X, [1, 2, 3]),
+  member(Y, [10, 11, 12]),
+  member(Z, [1, 2]),
+  palindrome([X, Y, Z]).
+  ```
