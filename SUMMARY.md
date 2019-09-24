@@ -120,7 +120,7 @@
 * [Philosophy](philosophy/philosophy.md)
   - [Stoicism](philosophy/stoicism/stoicism.md)
   - [Buddhist philosophy](philosophy/buddhism/buddhism.md)
-* [Hisotory](history/history.md)
+* [History](history/history.md)
   - [People](history/people/people.md)
     - [Benjamin Franklin](history/people/benjamin-franklin.md)
 * [Buddhism](buddhism/buddhism.md)

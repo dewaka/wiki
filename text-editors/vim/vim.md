@@ -58,3 +58,19 @@ I'm a big fan of modal editing and specifically Vim.
   ```
   set mouse=a
   ```
+- Opening files based on a command line search. This is more of a command line
+  tip, but I find this pattern to be quite useful. To open all Dockerfiles in a
+  directory,
+  ```
+  vim $(fd Dockerfile ~/Code)
+  ```
+  
+  Another adaptation of this pattern is to use a temporary vim buffer to put the
+  search results and then open files based from buffer contents.
+  ```
+  fd Dockerfile ~/Code | vim -
+  
+  # Then open files one by one based on the contents (which could be empty if
+  # the search results are empty). Opening buffers for file locations is a
+  # pretty easy in Vim with Vim unimpared commands like `gf` in normal mode
+  ```
