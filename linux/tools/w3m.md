@@ -7,3 +7,4 @@
   ```sh
   w3m -o auto_image=FALSE  https://news.ycombinator.com/
   ```
+- Default bookmarks file is in `~/.w3m/bookmark.html`. Bookmarks can be added via `Esc+a` and visted by `Esc+b`.

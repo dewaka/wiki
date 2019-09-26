@@ -25,6 +25,8 @@ really good for day to day use.
   rg '__main__'  $Projects
   ```
 - `Alt+Back` - to go back in directory history and `Alt+Right` to forward.
+- `Alt+v` - to edit command with shell's default editor. This is looked up via the `$EDITOR` environment variable.
+- `Alt+f`, `Alt+b` - to go forward adn backward in currently editing command. These are Emacs readline keys which fish prompt support out of the box.
 
 ## Useful functions
 
