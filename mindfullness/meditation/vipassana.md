@@ -1,1 +1,1 @@
-# Vipassana Mediatation
+# Vipassana Meditation

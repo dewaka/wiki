@@ -95,3 +95,20 @@
   member(Z, [1, 2]),
   palindrome([X, Y, Z]).
   ```
+- Fizz buzz in Prolog,
+  ```prolog
+  print_fizz_buzz(N) :- (
+      0 is mod(N, 15) -> write("fizzbuzz"),nl
+      ;
+      0 is mod(N, 3) -> write("fizz"), nl
+      ;
+      0 is mod(N, 5) -> write("buzz"), nl
+      ;
+      write(N), nl
+      ).
+  
+  
+  fizz_buzz(N) :- aux_fizz_buzz(0, N).
+  aux_fizz_buzz(M, N) :- M < N, print_fizz_buzz(M), M1 is (M + 1), aux_fizz_buzz(M1, N).
+  aux_fizz_buzz(M, N) :- M >= N, !, nl.
+  ```
