@@ -112,3 +112,18 @@
   aux_fizz_buzz(M, N) :- M < N, print_fizz_buzz(M), M1 is (M + 1), aux_fizz_buzz(M1, N).
   aux_fizz_buzz(M, N) :- M >= N, !, nl.
   ```
+- `current_op` can be used to find out precedence and type of an operator.
+  Example, to find out these information about `mod`,
+
+  ```
+  current_op(Precedence, Type, mod).
+  ```
+  
+  In true Prolog fashion, one can find out all the operators which are curently
+  definied using something like follows,
+  
+  ```
+  current_op(Precedence, Type, Op).
+  ```
+  
+  which will list all the opeartors with their respective precedence and type.
