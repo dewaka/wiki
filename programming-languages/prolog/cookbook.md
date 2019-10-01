@@ -96,6 +96,7 @@
   palindrome([X, Y, Z]).
   ```
 - Fizz buzz in Prolog,
+
   ```prolog
   print_fizz_buzz(N) :- (
       0 is mod(N, 15) -> write("fizzbuzz"),nl
@@ -112,17 +113,18 @@
   aux_fizz_buzz(M, N) :- M < N, print_fizz_buzz(M), M1 is (M + 1), aux_fizz_buzz(M1, N).
   aux_fizz_buzz(M, N) :- M >= N, !, nl.
   ```
+
 - `current_op` can be used to find out precedence and type of an operator.
   Example, to find out these information about `mod`,
 
-  ```
+  ```prolog
   current_op(Precedence, Type, mod).
   ```
   
   In true Prolog fashion, one can find out all the operators which are curently
   definied using something like follows,
   
-  ```
+  ```prolog
   current_op(Precedence, Type, Op).
   ```
   
