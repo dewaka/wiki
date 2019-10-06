@@ -2,7 +2,7 @@
 
 ## Indian
 
-- Kalidasa
+- [Bhagavad Gita](bhagavad-gita.md)
 
 ## Chinese
 

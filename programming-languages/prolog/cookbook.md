@@ -129,3 +129,12 @@
   ```
   
   which will list all the opeartors with their respective precedence and type.
+- Permutations,
+
+  ```prolog
+  take([H|T], H, T).
+  take([H|T], R, [H|S]) :- take(T, R, S).
+
+  perm([], []).
+  perm(List, [H|T]) :- take(List, H, R), perm(R, T).
+  ```
