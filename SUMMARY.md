@@ -142,7 +142,7 @@
 * [Literature](literature/literature.md)
   - [Western literature](literature/western.md)
   - [Oriental literature](literature/oriental/oriental.md)
-    - [Bhagavad Gita](literature/oriental/oriental.md)
+    - [Bhagavad Gita](literature/oriental/bhagavad-gita.md)
   - [Mythology](literature/mythology.md)
   - [Aphorisms](literature/aphorisms.md)
 * [Research](research/research.md)
