@@ -63,6 +63,7 @@
       - [requests](programming-languages/python/libraries/requests.md)
     - [Python tools](programming-languages/python/tools)
       - [Pipenv](programming-languages/python/tools/pipenv.md)
+    - [Python Cookbook](programming-languages/python/cookbook.md)
   - [Prolog](programming-languages/prolog/prolog.md)
     - [Prolog Cookbook](programming-languages/prolog/cookbook.md)
   - [Clojure](programming-languages/clojure/clojure.md)
