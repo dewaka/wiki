@@ -177,3 +177,4 @@
 * [Log](log/log.md)
   - [2019](log/2019/2019.md)
     - [September](log/2019/september.md)
+    - [October](log/2019/october.md)
