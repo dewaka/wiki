@@ -17,3 +17,4 @@
 ## Activities
 
 - Started doing medium long runs over the weekends again. For me these are the runs which takes more than one hour, but less than two hours.
+- Went on a hike to Leith Hill, Surrey. The weather was surprisingly great for an Autumn day on the day!

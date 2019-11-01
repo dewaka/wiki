@@ -32,6 +32,8 @@
         - [Spring Cloud](programming-languages/java/libraries/spring/spring-cloud.md)
       - [Guava](programming-languages/java/libraries/guava.md)
       - [JUnit 5](programming-languages/java/libraries/junit5.md)
+      - [Logging](programming-languages/java/libraries/logging.md)
+      - [Google Auto](programming-languages/java/libraries/auto.md)
   - [Scala](programming-languages/scala/scala.md)
     - [Dotty](programming-languages/scala/dotty.md)
     - [Benchmarking Scala](programming-languages/scala/benchmarking.md)
