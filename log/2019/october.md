@@ -2,9 +2,11 @@
 
 ## Learning
 
+- Tons of new things to learn at work.
 
 ## Coding
 
+- Didn't have much free time to work on side projects after starting the new job.
 
 ## Reading
 

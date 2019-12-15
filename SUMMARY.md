@@ -10,6 +10,7 @@
       - [Coq](computer-science/formal-verification/coq.md)
       - [Lean](computer-science/formal-verification/lean.md)
       - [TLA+](computer-science/formal-verification/tla.md)
+  - [Garbage Collection](computer-science/garbage-collection/garbage-collection.md)
 * [Programming](programming/programming.md)
     - [Functional programming](programming/functional-programming/functional-programming.md)
         - [Functional data structures](programming/functional-programming/data-structures.md)

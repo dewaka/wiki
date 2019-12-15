@@ -74,3 +74,9 @@ I'm a big fan of modal editing and specifically Vim.
   # the search results are empty). Opening buffers for file locations is a
   # pretty easy in Vim with Vim unimpared commands like `gf` in normal mode
   ```
+- Write a file as superuser,
+	```vim
+  :w !sudo tee %
+  ```
+
+	How this works - <https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work>.

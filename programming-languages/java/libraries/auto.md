@@ -1,5 +1,11 @@
 # [Google Auto](https://github.com/google/auto)
 
+## Links
+
+- <https://mincong-h.github.io/2018/06/19/auto-value-and-jackson/>
+
+## Code snippets
+
 - Using AutoValue with JSON serde
 
   ```java
@@ -40,3 +46,5 @@
 
 	}
   ```
+
+
