@@ -5,4 +5,6 @@
 - Streams
 - Lambdas
 
-- [Garbage Collection](garbage-collection.md)
+## [Garbage Collection](garbage-collection.md)
+
+## [Libraries](libraries/libraries.md)
