@@ -1,5 +1,9 @@
 # Rust
 
+## Topics
+
+- [Asynchronous Programming](async.md)
+
 ## Tips
 
 - Formatting on save in Vim - set, `let g:rustfmt_autosave = 1` in `vimrc` after

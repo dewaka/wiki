@@ -1,12 +1,7 @@
 # Java
 
-## Java 8 Features
+## Topics
 
-- Streams
-- Lambdas
-
-## [Garbage Collection](garbage-collection.md)
-
-## [Performance](performance.md)
-
-## [Libraries](libraries/libraries.md)
+- [Libraries](libraries/libraries.md)
+- [Performance](performance.md)
+- [Garbage Collection](garbage-collection.md)
