@@ -15,7 +15,7 @@
     - [Functional programming](programming/functional-programming/functional-programming.md)
         - [Functional data structures](programming/functional-programming/data-structures.md)
         - [Algebraic Effects](programming/functional-programming/algebraic-effects.md)
-        - [Dependent Types](programming/functional-programming/dependent-types)
+        - [Dependent Types](programming/functional-programming/dependent-types/dependent-types.md)
           - [Agda](programming/functional-programming/dependent-types/agda.md)
           - [Idris](programming/functional-programming/dependent-types/idris.md)
         - [Continuations](programming/functional-programming/continuations.md)
