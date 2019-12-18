@@ -6,12 +6,9 @@ Following are some of my most listened to classical music.
 
 ### Bach
 
-- Cello suites - I cannot simply choose which performance I like best since they
-  have their own unique characteristics, but following renderings are some of my
-  favourites thus far,
+- Cello suites - I cannot simply choose which performance I like best since they have their own unique characteristics, but following renderings are some of my favourites thus far,
   - [Bach: Cello Suites](https://open.spotify.com/album/2ge28dEPCwqWMdxS4Qpvbx?si=uexnjJKRRcCS57vlz8yAyA) by Mstislav Rostropovich
-  - [J. S. Bach: Suites for Cello Solo Single Voice Polyphony I](https://open.spotify.com/album/4LTJrYL6gC3PMB4MhJEPNG?si=wHTNQBosSwaSPNnpcG-xWg)
-    by Gavriel Lipkind
+  - [J. S. Bach: Suites for Cello Solo Single Voice Polyphony I](https://open.spotify.com/album/4LTJrYL6gC3PMB4MhJEPNG?si=wHTNQBosSwaSPNnpcG-xWg) by Gavriel Lipkind
 
 - Partitas
   - [Bach, J.S.: 6 Partitas](https://open.spotify.com/album/0ShuFOYtbgaHj2VZAo4TsU?si=aZlJYdipSNmy9GxiY2v8WQ) by András Schiff
