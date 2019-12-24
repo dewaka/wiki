@@ -43,6 +43,8 @@
   - [Scala](programming-languages/scala/scala.md)
     - [Dotty](programming-languages/scala/dotty.md)
     - [Benchmarking Scala](programming-languages/scala/benchmarking.md)
+    - [Scala libraries](programming-languages/scala/libraries/libraries.md)
+      - [ZIO](programming-languages/scala/libraries/zio.md)
   - [Haskell](programming-languages/haskell/haskell.md)
     - [Haskell tools](programming-languages/haskell/tools/tools.md)
       - [Haskell tools](programming-languages/haskell/tools/stack.md)
