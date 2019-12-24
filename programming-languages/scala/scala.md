@@ -9,3 +9,7 @@ Scala is a general purpose multi-paradigmn programming language.
 ## Perforamance
 
 - [Benchmarking Scala](benchmarking.md)
+
+## Libraries
+
+- [Scala libraries](libraries/libraries.md)
