@@ -6,6 +6,7 @@
 - [Algebraic Effects](algebraic-effects.md)
 - [Continuations](continuations.md)
 - [Dependent Types](dependent-types/dependent-types.md)
+- [Category Theory](category-theory.md)
 
 ## Posts
 
