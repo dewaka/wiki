@@ -12,3 +12,10 @@
 - Uses smartcase by default, which means if the search term is in lowercase,
   the search is done in case-insensitive manner. But if the search term contains
   Capital letters the search is done in a case-sensitive manner.
+
+
+- Find files with a specific extension:
+
+  ```sh
+  fd --extension txt
+  ```
