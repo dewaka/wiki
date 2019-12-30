@@ -6,9 +6,9 @@
 
 ## Libraries and Tools
 
-- [Python libraries](libraries)
-- [Python tools](programming-languages/python/tools)
+- [Python libraries](libraries/libraries.md)
+- [Python tools](tools/tools.md)
 
-## Advanced topics
+## Advanced Topics
 
 - [Python performance](performance.md)
