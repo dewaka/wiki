@@ -9,4 +9,4 @@
 
 ## Specifications
 
-- [http://cr.openjdk.java.net/~mr/jigsaw/spec/java-se-9-jls-diffs.pdf](The Java Language Specification - Java SE 9 Edition)
+- [The Java Language Specification - Java SE 9 Edition](http://cr.openjdk.java.net/~mr/jigsaw/spec/java-se-9-jls-diffs.pdf)
