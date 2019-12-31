@@ -15,3 +15,10 @@
   @Option(name = "--files", required = true, handler = CSVStringOptionHandler.class)
   private List<String> files;
   ```
+
+- Boolean or flag arguments,
+
+  ```java
+  @Option(name = "--dryrun", handler = ExplicitBooleanOptionHandler.class)
+  private boolean dryRun;
+  ```
