@@ -119,6 +119,7 @@
   - [bat](cli/bat.md)
   - [tldr](cli/tldr.md)
   - [install](cli/install.md)
+  - [chflags](cli/chflags.md)
 * [Technology](technology/technology.md)
     - [Search](technology/search/search.md)
         - [Google](technology/search/google.md)

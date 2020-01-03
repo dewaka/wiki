@@ -5,3 +5,5 @@
 - [fd](fd.md)
 - [bat](bat.md)
 - [tldr](tldr.md)
+- [instal](install.md)
+- [chflags](chflags.md)
