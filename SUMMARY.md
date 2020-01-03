@@ -33,6 +33,7 @@
     - [Java Garbage Collection](programming-languages/java/garbage-collection.md)
     - [Java Performance](programming-languages/java/performance.md)
     - [Java Modules](programming-languages/java/modules.md)
+    - [Graal](programming-languages/java/graal.md)
     - [Java libraries](programming-languages/java/libraries/libraries.md)
       - [Spring](programming-languages/java/libraries/spring/spring.md)
         - [Spring Cloud](programming-languages/java/libraries/spring/spring-cloud.md)

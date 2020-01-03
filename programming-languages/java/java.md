@@ -6,6 +6,7 @@
 - [Performance](performance.md)
 - [Garbage Collection](garbage-collection.md)
 - [Modules](modules.md)
+- [Graal](graal.md)
 
 ## Specifications
 
