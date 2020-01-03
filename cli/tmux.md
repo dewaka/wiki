@@ -8,3 +8,13 @@
 
 - [gruvbox theme](https://github.com/dewaka/tmux-gruvbox) - I forked the
   repository to add Zoom indicator icon support.
+
+## Tmux Cookboook
+
+- Rename tmux windows to current directory - <https://stackoverflow.com/questions/28376611/how-to-automatically-rename-tmux-windows-to-the-current-directory>
+
+  ```tmux
+  set-option -g status-interval 5
+  set-option -g automatic-rename on
+  set-option -g automatic-rename-format '#{b:pane_current_path}'
+  ```
