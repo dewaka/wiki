@@ -1,5 +1,9 @@
 # tmux 
 
+## Links
+
+- [Scripting tmux](https://www.arp242.net/tmux.html)
+
 ## Current config
 
 - [tmux.conf](https://gist.github.com/dewaka/ec7c77eb47488028e5e2b8260f0d38a3)
@@ -18,3 +22,5 @@
   set-option -g automatic-rename on
   set-option -g automatic-rename-format '#{b:pane_current_path}'
   ```
+- Manually rename windows with - `Prefix + ,`
+- To show current bindings - `Prefix + ?`

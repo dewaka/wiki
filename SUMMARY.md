@@ -176,6 +176,7 @@
 * [Papers](papers/papers.md)
   - [Computer Science](papers/cs/cs.md)
     - [Higher-order logic programming in Prolog](papers/cs/naish95higher-orderlogic.md)
+    - [The Rise of Worse is Better](papers/cs/rise-of-worse-is-better.md)
   - [Psychology](papers/psychology/psychology.md)
   - [Literature](papers/literature/literature.md)
     - [Euclid and Pāṇini](papers/literature/staal1965-euclid-and-panini.md)
