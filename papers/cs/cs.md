@@ -11,3 +11,8 @@
 ## Software Engineering
 
 - [x] [The Rise of Worse is Better - Richard P. Gabriel](https://web.mit.edu/6.033/www/papers/Worse_is_Better.pdf) - [notes](rise-of-worse-is-better.md)
+
+
+## Concurrency
+
+- [ ] [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/s/conferences/sosp/2013/papers/p33-david.pdf) - [notes](everything-about-synchronization.md)
