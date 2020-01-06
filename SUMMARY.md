@@ -184,6 +184,8 @@
   - [Computer Science](courses/cs.md)
 * [Devops](devops/devops.md)
   - [Ansible](devops/ansible.md)
+  - [Puppet](devops/puppet.md)
+  - [TerraForm](devops/terraform.md)
 * [Music](music/music.md)
   - [Classical](music/classical/classical.md)
     - [Western classical music](music/classical/western.md)
