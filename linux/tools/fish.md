@@ -65,3 +65,17 @@ really good for day to day use.
     end
   end
   ```
+
+- Find out the ID of the running container for given search term
+
+  ```fish
+  function container-id
+    set search $argv[1]
+    set --erase argv[1]
+    if test -n "$search"
+      docker ps | grep "$search" | cut -f1 -d' '
+    end
+  end
+  ```
+  
+  Usage example: To find out currently running Postgres instance - `container-id postgres`.
