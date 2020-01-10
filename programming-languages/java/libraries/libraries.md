@@ -12,6 +12,7 @@
 - [Google Auto](auto.md)
 - [Lombok](lombok.md)
 - [args4j](args4j.md)
+- [duct-tape](duct-tape.md)
 
 
 ## Database and ORMs

@@ -44,6 +44,7 @@
       - [Google Auto](programming-languages/java/libraries/auto.md)
       - [Lombok](programming-languages/java/libraries/lombok.md)
       - [JOOQ](programming-languages/java/libraries/jooq.md)
+      - [duct-tape](programming-languages/java/libraries/duct-tape.md)
       - [args4j](programming-languages/java/libraries/args4j.md)
   - [Scala](programming-languages/scala/scala.md)
     - [Dotty](programming-languages/scala/dotty.md)
