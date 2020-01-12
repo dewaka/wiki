@@ -3,9 +3,25 @@
 ## Books
 
 - [Beauty by Roger Scruton](https://www.goodreads.com/book/show/6323955-beauty)
+  - My first foray into aesthetics theory.
 - [The Man in the High Castle by Philip K. Dick](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
+  - I quite liked the first TV series from Amazon - [The Man in the High Castle](https://www.imdb.com/title/tt1740299/), then lost interest to follow up on later series (which might change in the future!).
+  - Without writing too many spoilers, the TV series has far more character development than the book and it is more _based_ on the book rather than _faithful_ to the book.
 - [The Summer Without Men by Siri Hustvedt](https://www.goodreads.com/book/show/10223697-the-summer-without-men)
+- [Catullus: The Poems](https://www.goodreads.com/book/show/287155.Catullus) 
+  - Curiosity read since I haven't read many (if any) Roman poets before.
+  - Quite liked the mythical poems on Thesius etc.
+  - There are some sharp, quite quotable short poems, too.
+- [The Blue Room](https://www.goodreads.com/book/show/140590.The_Blue_Room)
+  - Similar theme to [Unfaithful (2002)](https://www.imdb.com/title/tt0250797/)
+    film, although this book is much older.
+  - Quite an interesting short story.
+- [Better: A Surgeon's Notes on Performance](https://www.goodreads.com/book/show/213233.Better)
+  - Quite an interesting book on medication profession which I do not know much about.
+  - Stories on how doctors in poor countries and areas adapt to the unique challenges and rise to the occasion were quite inspiring to read.
+  - Advice on getting better in once professoin is, I think, applicable to other fields as well.
 
 ## Papers
 
 - [The Rise of Worse is Better - Richard P. Gabriel](../../papers/cs/rise-of-worse-is-better.md)
+- [Advantages and Disadvantages of a Monolithic Repository](../../papers/cs/monorepos-seip18.md)
