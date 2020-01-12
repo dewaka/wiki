@@ -8,6 +8,9 @@
   - I quite liked the first TV series from Amazon - [The Man in the High Castle](https://www.imdb.com/title/tt1740299/), then lost interest to follow up on later series (which might change in the future!).
   - Without writing too many spoilers, the TV series has far more character development than the book and it is more _based_ on the book rather than _faithful_ to the book.
 - [The Summer Without Men by Siri Hustvedt](https://www.goodreads.com/book/show/10223697-the-summer-without-men)
+  - This is an interesting book on a woman's perspective on dealing with a _midlife_ crisis of sorts.
+  - Early chapters reminded me of [Girl, Interrupted (1999)](https://www.imdb.com/title/tt0172493/) , which is one of my favourite films. Although both protagonists go through a breakdown, that's probably where the similarities end! 
+  - This reminds me that I should pick up [Girl, Interrupted](https://www.goodreads.com/book/show/68783.Girl_Interrupted) book itself.
 - [Catullus: The Poems](https://www.goodreads.com/book/show/287155.Catullus) 
   - Curiosity read since I haven't read many (if any) Roman poets before.
   - Quite liked the mythical poems on Thesius etc.
