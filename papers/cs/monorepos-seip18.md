@@ -19,5 +19,8 @@
 - [Cohesive and Isolated Development with Branches](http://earlbarr.com/publications/gitbranches.pdf)
   - Ease of branching seems to be one of the major contributors in the adaption
     of DVCs, such as git and mercurial
+  - Contrary to convention wisdom it is not the ease of development with
+    distributed, as opposed centralised, development is *not* the key to the
+    adaption of DVCs.
 - [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
   - Google Piper - in-house source control management system

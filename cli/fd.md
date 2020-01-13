@@ -19,3 +19,11 @@
   ```sh
   fd --extension txt
   ```
+
+- Open a file found via `fd`,
+
+  ```sh
+  fd 'Math.*.pdf' -x open
+  ```
+  
+  Use `-x` flag for executing a command.

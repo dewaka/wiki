@@ -24,6 +24,8 @@
       - [Mutex](programming/concurrent/mutex.md)
       - [Semaphores](programming/concurrent/semaphores.md)
     - [Parallel Programming](programming/parallel/parallelism.md)
+    - [Systems Programming](programming/systems/systems.md)
+      - [Tagged pointers](programming/systems/tagged.md)
     - [Unicode](programming/unicode.md)
 * [Competitive Programming](competitive-programming/competitive.md)
 * [Source control](source-control/source-control.md)

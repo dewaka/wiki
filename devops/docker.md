@@ -1,5 +1,9 @@
 # Docker
 
+## Background
+
+- Docker on macOS uses [HyperKit](https://github.com/moby/hyperkit) - <http://collabnix.com/how-docker-for-mac-works-under-the-hood/>
+
 ## Usage
 
 - To delete all containers including its volumes use,

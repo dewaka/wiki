@@ -28,3 +28,8 @@
 
 - [The Rise of Worse is Better - Richard P. Gabriel](../../papers/cs/rise-of-worse-is-better.md)
 - [Advantages and Disadvantages of a Monolithic Repository](../../papers/cs/monorepos-seip18.md)
+
+## Films and TV
+
+- [Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Finally finished the series. Even though I didn't like the later series all that much I was sad to see the series finish.
+- [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/)
