@@ -34,3 +34,5 @@
   offerings seem to be pretty good value if you are serious about improving.
 - Chessbase - I'm a little disappointed that Chessbase does not have an offering
   for Linux or macOS users.
+
+- [Chess openings](openings.md)
