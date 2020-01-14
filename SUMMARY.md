@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Books](books/books.md)
+  - [Technical books](books/technical/technical.md)
 * [Computer Science](computer-science/computer-science.md)
   - [Data Structures](computer-science/data-structures/data-structures.md)
     - [Skip Lists](computer-science/data-structures/skip-lists.md)
@@ -206,7 +208,7 @@
     - [Running books](sports/running/books.md)
     - [Running shoes](sports/running/shoes.md)
   - [Chess](sports/chess/chess.md)
-    - [Chess](sports/chess/openings.md)
+    - [Chess openings](sports/chess/openings.md)
   - [Hiking](sports/hiking/hiking.md)
 * [Log](log/log.md)
   - [2019](log/2019/2019.md)
