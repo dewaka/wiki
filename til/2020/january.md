@@ -17,3 +17,15 @@
     ```
     
     This is an Aerospike Enterprise Edition feature.
+  - [Namespace Retention Configuration | Aerospike](https://www.aerospike.com/docs/operations/configure/namespace/retention)
+    - Aerospike can be configured to `expire` or `evict` least recently updated data.
+    - Expiration and eviction algorithms use records `TTL` (Time To Live) value to determine eligibility for removal.
+    - `default-ttl` can be set at a `namespace` level. See the documentation
+      above for examples.
+  - Checking docker exposed ports can be done by `docker port` command - <https://docs.docker.com/engine/reference/commandline/port/>
+  - AssertJ test for equality ignoring fields can be done via `isEqualToComparingOnlyGivenFields`, as in the following example,
+    
+    ```java
+    assertThat(testVersion)
+        .isEqualToComparingOnlyGivenFields(sourceVersion, "supplySourceList", "name", "defaultSeatId");
+    ```
