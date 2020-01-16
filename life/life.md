@@ -1,0 +1,3 @@
+# Life
+
+- [Journaling](journaling.md)
