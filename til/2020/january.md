@@ -29,3 +29,6 @@
     assertThat(testVersion)
         .isEqualToComparingOnlyGivenFields(sourceVersion, "supplySourceList", "name", "defaultSeatId");
     ```
+
+- 2020-01-17
+  - Java `EnumMap` and `EnumSet` optimisations - <https://stackoverflow.com/questions/16637288/optimization-done-by-an-enummap-enumset>
