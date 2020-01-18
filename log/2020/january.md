@@ -23,6 +23,20 @@
   - Quite an interesting book on medication profession which I do not know much about.
   - Stories on how doctors in poor countries and areas adapt to the unique challenges and rise to the occasion were quite inspiring to read.
   - Advice on getting better in once professoin is, I think, applicable to other fields as well.
+- [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice)
+  - It was a long awaited read for me to finally to read Pride and Prejudice.
+  - I've seen [Pride & Prejudice (2005)](https://www.imdb.com/title/tt0414387/)
+    film some time back and reading books of Jane Austen was quite high on my
+    list.
+  - I picked up reading reading this book while parallel reading other books,
+    but after the first couple of chapters I could almost not put it down, and
+    read it solely till I finished it!
+- [The Bridges of Madison County](https://www.goodreads.com/book/show/83674.The_Bridges_of_Madison_County)
+  - I picked up this short book solely based on how much I liked the film [The
+    Bridges of Madison County (1995)](https://www.imdb.com/title/tt0112579/),
+    and I think my ratings for the book, is biased based on the liking to the
+    film as well.
+    
 
 ## Papers
 
@@ -33,3 +47,8 @@
 
 - [Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Finally finished the series. Even though I didn't like the later series all that much I was sad to see the series finish.
 - [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/)
+
+## Blog entries
+
+- [New Year Resolutions (2020)](https://dewaka.com/blog/2020/01/09/new-year-resolutions-2020/) 
+- [Using sdkman to simplify development](https://dewaka.com/blog/2020/01/16/sdkman-to-simplify-development/)
