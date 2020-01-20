@@ -33,3 +33,12 @@
 - 2020-01-17
   - Java `EnumMap` and `EnumSet` optimisations - <https://stackoverflow.com/questions/16637288/optimization-done-by-an-enummap-enumset>
   - [dig](https://mediatemple.net/community/products/dv/204644130/understanding-the-dig-command)
+
+- 2020-01-19
+  - syscall perturbation
+    - [System call perturbation using Strace](https://github.com/KTH/royal-chaos/blob/master/chaosorca/sysc/README.md)
+    - [Observability and Chaos Engineering on System Calls for Containerized Applications in Docker](https://arxiv.org/pdf/1907.13039.pdf)
+
+- 2020-01-20
+  - [CompletionStage](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletionStage.html)
+    - Examples of usage - <https://dzone.com/articles/20-examples-of-using-javas-completablefuture>
