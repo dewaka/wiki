@@ -53,6 +53,7 @@
       - [args4j](programming-languages/java/libraries/args4j.md)
   - [Scala](programming-languages/scala/scala.md)
     - [Dotty](programming-languages/scala/dotty.md)
+    - [Specialization](programming-languages/scala/specialization.md)
     - [Benchmarking Scala](programming-languages/scala/benchmarking.md)
     - [Scala libraries](programming-languages/scala/libraries/libraries.md)
       - [ZIO](programming-languages/scala/libraries/zio.md)
