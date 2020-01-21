@@ -95,6 +95,8 @@
   - [Clojure](programming-languages/clojure/clojure.md)
     - [Clojure Cookbook](programming-languages/clojure/cookbook.md)
   - [Julia](programming-languages/julia/julia.md)
+    - [Julia libraries](programming-languages/julia/libraries/libraries.md)
+      - [DataFrames](programming-languages/julia/libraries/data-frames.md)
 * [Mindfullness](mindfullness/mindfullness.md)
     - [Mediatation](mindfullness/meditation/meditation.md)
       - [Samatha](mindfullness/meditation/samatha.md)

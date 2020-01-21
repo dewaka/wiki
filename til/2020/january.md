@@ -42,3 +42,7 @@
 - 2020-01-20
   - [CompletionStage](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletionStage.html)
     - Examples of usage - <https://dzone.com/articles/20-examples-of-using-javas-completablefuture>
+  - GNU grep `-o` option for `--only-matching` entries in a search - pretty useful in practice.
+
+- 2020-01-21
+  - Julia DataFrame Cheat Sheet - <https://jcharistech.wordpress.com/julia-dataframes-cheat-sheets/>
