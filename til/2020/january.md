@@ -46,3 +46,9 @@
 
 - 2020-01-21
   - Julia DataFrame Cheat Sheet - <https://jcharistech.wordpress.com/julia-dataframes-cheat-sheets/>
+  - [Blue Green deployment](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html).
+  - Ansible forks with `-f` option.
+    - More on Ansible performance tuning - <https://www.ansible.com/blog/ansible-performance-tuning>.
+
+- 2020-01-22
+  - [Semantic Patches for Java Program Transformation](https://doi.org/10.4230/LIPIcs.ECOOP.2019.22) - this is a port of [Coccinelle](http://coccinelle.lip6.fr/) for Java.

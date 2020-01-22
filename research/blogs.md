@@ -17,6 +17,7 @@
 - [Dan Luu](https://danluu.com) - is full with well researched articles on a myriad of topics.
 - [The ryg blog | When I grow up I'll be an inventor](https://fgiesen.wordpress.com/) - Blog of Fabian Giesen which is full of articles on high performance computing.
 - [Blog | Paul Cavallaro](https://paulcavallaro.com/) - Another blogger with very good high performance computing articles and writeups about research papers in same areas.
+- [Eli Bendersky](https://eli.thegreenplace.net/)
 
 ### Philosophy
 
