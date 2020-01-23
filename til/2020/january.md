@@ -52,3 +52,6 @@
 
 - 2020-01-22
   - [Semantic Patches for Java Program Transformation](https://doi.org/10.4230/LIPIcs.ECOOP.2019.22) - this is a port of [Coccinelle](http://coccinelle.lip6.fr/) for Java.
+
+- 2020-01-23
+  - [Lua named arguments](https://www.lua.org/pil/5.3.html)
