@@ -147,6 +147,7 @@
       - [Org mode](text-editors/emacs/org-mode.md)
     - [Vim](text-editors/vim/vim.md)
       - [Vim plugins](text-editors/vim/plugins.md)
+      - [Text objects](text-editors/vim/text-objects.md)
     - [Sublime Text](text-editors/sublime-text.md)
 * [IDEs](ide/ide.md)
     - [IntelliJ IDEA](ide/intellij/intellij.md)
