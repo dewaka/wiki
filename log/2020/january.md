@@ -29,22 +29,15 @@
   - I picked up reading reading this book while parallel reading other books, but after the first couple of chapters I could almost not put it down, and read it solely till I finished it!
 - [The Bridges of Madison County](https://www.goodreads.com/book/show/83674.The_Bridges_of_Madison_County)
   - I picked up this short book solely based on how much I liked the film [The Bridges of Madison County (1995)](https://www.imdb.com/title/tt0112579/), and I think my ratings for the book, is biased based on the liking to the film as well.
-- [The Lathe of
-  Heaven](https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven) - This
-  is the first Ursula Le Guin book for me. I've been eyeing to read her science
-  fiction books for a while and I'm quite glad that I started with this one. It
-  is a pretty awesome story which is hard to describe. 
-- [The End of the
-  Affair](https://www.goodreads.com/book/show/29641.The_End_of_the_Affair) - I
-  had seen the movie based on the novel a long time ago [The End of the Affair
-  (1999)](https://www.imdb.com/title/tt0172396/) and I quite liked the film even
-  though I found its ending a bit gloomy at the time. The book evoked even
-  stronger emotions for me. I'm not even sure whether to call this book just a
-  run of the mill love story. The second half is _almost_ religious and
-  spiritual. I found the novel quite nihilistic and religious at the same time.
-  Most of all, I like the brutal honesty of the protagonist who fights till the
-  end to keep his nihilistic world view. I'm not sure whether it is nihilistic -
-  at least he believed in love, so there's something!
+- [The Lathe of Heaven](https://www.goodreads.com/book/show/59924.The_Lathe_of_Heaven) 
+  - This is the first Ursula Le Guin book for me. 
+  - I've been eyeing to read her science fiction books for a while and I'm quite glad that I started with this one. 
+  - It is a pretty awesome story which is hard to describe. 
+- [The End of the Affair](https://www.goodreads.com/book/show/29641.The_End_of_the_Affair) 
+  - I had seen the movie based on the novel a long time ago [The End of the Affair (1999)](https://www.imdb.com/title/tt0172396/) and I quite liked the film even though I found its ending a bit gloomy at the time. 
+  - The book evoked even stronger emotions for me. I'm not even sure whether to call this book just a run of the mill love story. 
+  - The second half is _almost_ religious and spiritual. I found the novel quite nihilistic and religious at the same time.
+  - Most of all, I like the brutal honesty of the protagonist who fights till the end to keep his nihilistic world view. I'm not sure whether it is nihilistic - at least he believed in love, so there's something!
 
 ## Papers
 

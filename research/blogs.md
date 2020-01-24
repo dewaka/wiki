@@ -18,6 +18,7 @@
 - [The ryg blog | When I grow up I'll be an inventor](https://fgiesen.wordpress.com/) - Blog of Fabian Giesen which is full of articles on high performance computing.
 - [Blog | Paul Cavallaro](https://paulcavallaro.com/) - Another blogger with very good high performance computing articles and writeups about research papers in same areas.
 - [Eli Bendersky](https://eli.thegreenplace.net/)
+- [Stephen Diehl](http://www.stephendiehl.com/posts/decade.html) - One of the best blogs when it comes to Haskell.
 
 ### Philosophy
 

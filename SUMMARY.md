@@ -228,7 +228,7 @@
     - [November](log/2019/november.md)
     - [December](log/2019/december.md)
   - [2020](log/2020/2020.md)
-    - [January](log/2020/january.md)
+    - [September](log/2020/january.md)
 * [TIL](til/til.md)
   - [2020](til/2020/2020.md)
     - [January](til/2020/january.md)
