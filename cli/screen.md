@@ -6,7 +6,7 @@ available for use than `tmux`.
 
 This is why it is worth learning basics of `screen`.
 
-# screen 
+# Splitting 
 
 - Screen window splitting - <https://tomlee.co/2011/10/gnu-screen-splitting/>
 - Unlike on `tmux` a shell has to be spawned explicitly after splitting.

@@ -4,6 +4,8 @@
 * [Books](books/books.md)
   - [Technical books](books/technical/technical.md)
     - [Elements of Programming](books/technical/elements-of-programming.md)
+  - [Psychology books](books/psychology/psychology.md)
+    - [Mindset](books/psychology/mindset.md)
 * [Computer Science](computer-science/computer-science.md)
   - [Data Structures](computer-science/data-structures/data-structures.md)
     - [Skip Lists](computer-science/data-structures/skip-lists.md)

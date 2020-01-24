@@ -1,0 +1,4 @@
+# Psychology
+
+- [Mindset](mindset.md)
+
