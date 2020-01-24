@@ -125,6 +125,7 @@
     - [AutoHotkey](windows/tools/autohotkey.md)
 * [CLI](cli/cli.md)
   - [tmux](cli/tmux.md)
+  - [screen](cli/screen.md)
   - [ripgrep](cli/ripgrep.md)
   - [fd](cli/fd.md)
   - [bat](cli/bat.md)

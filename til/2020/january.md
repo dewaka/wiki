@@ -55,3 +55,10 @@
 
 - 2020-01-23
   - [Lua named arguments](https://www.lua.org/pil/5.3.html)
+
+- 2020-01-24
+  - Screen window splitting - <https://tomlee.co/2011/10/gnu-screen-splitting/>
+    - Unlike on `tmux` a shell has to be spawned explicitly after splitting.
+    - To do a vertical split - `Ctrl+a |` then `Ctrl+TAB` to go to the other
+      split. Then as usual, use `Ctrl+a c` to create a window.
+    - For a horizontal split use `Ctrl+a S`.
