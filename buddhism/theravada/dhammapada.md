@@ -9,17 +9,23 @@
 
 ## Selected verses
 
-- [Yamaka vagga - Pairs](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
+### [Yamaka vagga - Pairs](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 
-  - Suffering is Mind-made[^yamaka-vagga]
+- Verse 1 - Suffering is Mind-made 
 
-    > Mind is the forerunner of (all evil) states. Mind is chief; and they are
-    > mind-made. If one speaks or acts with a corrupt mind, suffering follows as
-    > the wheel follows the hoof of the ox.
+  > Mind is the forerunner of (all evil) states. Mind is chief; and they are
+  > mind-made. If one speaks or acts with a corrupt mind, suffering follows as
+  > the wheel follows the hoof of the ox.
 
-  - Happiness is Mind-made[^yamaka-vagga]
+- Verse 2 - Happiness is Mind-made
 
-    > Mind is the forerunner of (all good) states. Mind is chief, and they are
-    > mind-made. If one speaks or acts with pure mind, happienss follows as one's
-    > own shadow that never leaves.
+  > Mind is the forerunner of (all good) states. Mind is chief, and they are
+  > mind-made. If one speaks or acts with pure mind, happienss follows as one's
+  > own shadow that never leaves.
 
+### [Puppha vagga - Flowers](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html)
+
+- Verse 47 - Sensualities are swept away by death
+
+> The man who gathers flowers (of sensual pleasure), whose mind is distracted,
+> death carries off as a great flood sweeps away a sleeping village.

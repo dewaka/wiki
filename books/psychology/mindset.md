@@ -19,6 +19,9 @@
 - Growth mindset
   - Relishes challenges which can stretch them
   - Not afraid to fail and learn from mistakes
+- Quote from 1960s
+  > Becoming is better than being
+- Coping with failure without thinking that it is a fixed state one's fated to is one of the hallmarks of a growth mindset
 
 ## The truth about ability and accomplishment
 
