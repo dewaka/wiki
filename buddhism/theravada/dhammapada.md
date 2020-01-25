@@ -9,14 +9,18 @@
 
 ## Selected verses
 
-- Suffering is Mind-made
+- Suffering is Mind-made[^yamaka-vagga]
 
   > Mind is the forerunner of (all evil) states. Mind is chief; and they are
   > mind-made. If one speaks or acts with a corrupt mind, suffering follows as
   > the wheel follows the hoof of the ox.
 
-- Happiness is Mind-made
+- Happiness is Mind-made[^yamaka-vagga]
 
   > Mind is the forerunner of (all good) states. Mind is chief, and they are
   > mind-made. If one speaks or acts with pure mind, happienss follows as one's
   > own shadow that never leaves.
+
+## Footnotes
+
+[^yamaka-vagga]: [Yamakavagga: Pairs](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
