@@ -12,6 +12,7 @@
 
 - [x] [The Rise of Worse is Better - Richard P. Gabriel](https://web.mit.edu/6.033/www/papers/Worse_is_Better.pdf) - [notes](rise-of-worse-is-better.md)
 - [ ] [Advantages and Disadvantages of a Monolithic Repository](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf) - [notes](monorepos-seip18.md)
+- [ ] [Advantages and Disadvantages of a Monolithic Repository](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf) - [notes](monorepos-seip18.md)
 
 
 ## Concurrency

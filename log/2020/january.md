@@ -48,6 +48,7 @@
 
 - [Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Finally finished the series. Even though I didn't like the later series all that much I was sad to see the series finish.
 - [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/)
+- [You](https://www.imdb.com/title/tt7335184/) - I'm of two minds whether to continue watching this series, which I find quite a bit shallow.
 
 ## Blog entries
 
