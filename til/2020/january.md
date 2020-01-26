@@ -62,3 +62,6 @@
     - To do a vertical split - `Ctrl+a |` then `Ctrl+TAB` to go to the other
       split. Then as usual, use `Ctrl+a c` to create a window.
     - For a horizontal split use `Ctrl+a S`.
+
+- 2020-01-25
+  - [enchive - Encrypted personal archives](https://github.com/skeeto/enchive) - this is a tool from [Chris Wellons](https://nullprogram.com/).

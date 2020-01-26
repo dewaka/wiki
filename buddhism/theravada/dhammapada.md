@@ -23,9 +23,14 @@
   > mind-made. If one speaks or acts with pure mind, happienss follows as one's
   > own shadow that never leaves.
 
+### [Citta vagga - The Mind](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.03.budd.html)
+
+- Verse 33 - Straighten the Fickle Mind
+  > The flickering, fickle mind, difficult to guard, difficult to control - the
+  > wise person straightens it as a fletcher straightens an arrow.
+  
 ### [Puppha vagga - Flowers](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html)
 
 - Verse 47 - Sensualities are swept away by death
-
-> The man who gathers flowers (of sensual pleasure), whose mind is distracted,
-> death carries off as a great flood sweeps away a sleeping village.
+  > The man who gathers flowers (of sensual pleasure), whose mind is distracted,
+  > death carries off as a great flood sweeps away a sleeping village.
