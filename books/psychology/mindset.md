@@ -55,9 +55,15 @@ Book - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/s
 - It is not about proving themselves but constantly trying to improve themselves.
 - Growth-minded leaders, have a belief in human potential and development - both their own and other people’s.
 - True self-confidence is "the courage to be open - to welcome change and new ideas regardless of their source"
+- Growth minded managers believe that skills are learnable, including negotiation skills.
 
 ## Relationships: Mindsets in Love (or not)
 
+- When people had fixed mindset, they felt judged and labeled by rejection
+- Fixed mindset people are set on hurting
+- To understand all is to forgive all
+  > Tout comprendre c'est tout pardonner
+- Growth mindset people care more about understanding, forgiving and moving on
 
 ## Parents, teachers, and coaches: Where do mindsets come from?
 

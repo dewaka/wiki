@@ -2,7 +2,7 @@
 
 ## Hiking groups
 
-- [Outdooraholics - Hiking, Walking, Outdoors](https://www.meetup.com/Outdooraholics/)
+- [Outdooraholics](outdooraholics/outdooraholics.md)
 - [AAA Hiking Group](https://www.meetup.com/AAA-London-Group/)
 
 ## Favourite equipment

@@ -222,6 +222,8 @@
   - [Chess](sports/chess/chess.md)
     - [Chess openings](sports/chess/openings.md)
   - [Hiking](sports/hiking/hiking.md)
+    - [Outdooraholics](sports/hiking/outdooraholics/outdooraholics.md)
+      - [Box Hill, Surrey](sports/hiking/outdooraholics/box-hill.md)
 * [Log](log/log.md)
   - [2019 logs](log/2019/2019.md)
     - [September](log/2019/september.md)
