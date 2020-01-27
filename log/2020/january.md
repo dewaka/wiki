@@ -5,7 +5,7 @@
 - [Beauty by Roger Scruton](https://www.goodreads.com/book/show/6323955-beauty)
   - My first foray into aesthetics theory.
 - [The Man in the High Castle by Philip K. Dick](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
-  - I quite liked the first TV series from Amazon - [The Man in the High Castle](https://www.imdb.com/title/tt1740299/), then lost interest to follow up on later series (which might change in the future!).
+  - I quite liked the first TV series from Amazon - [The Man in the High Castle](https://www.imdb.com/title/tt1740299/), then lost interest to follow up on later series. I might revisit the later series in the future.
   - Without writing too many spoilers, the TV series has far more character development than the book and it is more _based_ on the book rather than _faithful_ to the book.
 - [The Summer Without Men by Siri Hustvedt](https://www.goodreads.com/book/show/10223697-the-summer-without-men)
   - This is an interesting book on a woman's perspective on dealing with a _midlife_ crisis of sorts.
@@ -47,10 +47,15 @@
 ## Films and TV
 
 - [Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Finally finished the series. Even though I didn't like the later series all that much I was sad to see the series finish.
-- [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/)
+- [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/) - Although not as much as the first two series, I still quite like this series.
 - [You](https://www.imdb.com/title/tt7335184/) - I'm of two minds whether to continue watching this series, which I find quite a bit shallow.
+- [Young Sheldon](https://www.imdb.com/title/tt6226232/)
 
 ## Blog entries
 
 - [New Year Resolutions (2020)](https://dewaka.com/blog/2020/01/09/new-year-resolutions-2020/) 
 - [Using sdkman to simplify development](https://dewaka.com/blog/2020/01/16/sdkman-to-simplify-development/)
+
+## Bookmarks
+
+- [Swann's Way](https://www.goodreads.com/book/show/12749.Swann_s_Way) - A friend recommended reading this series, [In Search of Lost Time](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time) by [Proust](https://en.wikipedia.org/wiki/Marcel_Proust), which has been on my mind also for quite some time.

@@ -28,6 +28,10 @@
 - Verse 33 - Straighten the Fickle Mind
   > The flickering, fickle mind, difficult to guard, difficult to control - the
   > wise person straightens it as a fletcher straightens an arrow.
+
+- Verse 36 - Guard the Mind well
+  > The mind is very hard to perceive, extrmely subtle, flits wheverer it lists.
+  > Let the wise person guard it; a guarded mind is conducive to happiness.
   
 ### [Puppha vagga - Flowers](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.04.budd.html)
 

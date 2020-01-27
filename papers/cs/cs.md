@@ -12,7 +12,8 @@
 
 - [x] [The Rise of Worse is Better - Richard P. Gabriel](https://web.mit.edu/6.033/www/papers/Worse_is_Better.pdf) - [notes](rise-of-worse-is-better.md)
 - [ ] [Advantages and Disadvantages of a Monolithic Repository](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf) - [notes](monorepos-seip18.md)
-- [ ] [Advantages and Disadvantages of a Monolithic Repository](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf) - [notes](monorepos-seip18.md)
+- [x] [Coccinelle: 10 Years of Automated Evolution in the Linux Kernel](https://hal.inria.fr/hal-01853271/document) - [notes](coccinelle.md)
+- [x] [Semantic Patches for Java Program Transformation](https://drops.dagstuhl.de/opus/volltexte/2019/10814/pdf/LIPIcs-ECOOP-2019-22.pdf) - [notes](coccinelle.md)
 
 
 ## Concurrency

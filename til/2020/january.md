@@ -65,3 +65,7 @@
 
 - 2020-01-25
   - [enchive - Encrypted personal archives](https://github.com/skeeto/enchive) - this is a tool from [Chris Wellons](https://nullprogram.com/).
+
+- 2020-01-27
+  - [sar](https://linux.die.net/man/1/sar)
+  - [Java CopyOnWriteArrayList](https://www.baeldung.com/java-copy-on-write-arraylist)

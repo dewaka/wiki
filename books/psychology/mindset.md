@@ -1,5 +1,7 @@
 # Mindset
 
+Book - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
+
 ## The Mindsets
 
 - Alfred Binet invented IQ tests to improve education system in France at the time.
@@ -34,7 +36,25 @@
 
 ## Sports: The mindset of a champion
 
+- Character in sports
+  > Character is the ability to dig down and find the strength even when things are going against you
+- Mark of a champion is the ability to win when things are not quite right
+- Growth mindset people found success in doing their best, in learning and improving
+- Growth mindset people found setbacks motivating
+- Growth mindset people took charge of the processes that bring success and that which maintain it
+- Sports greatness, 
+  > Even though the finest athletes are wildly competitive and
+  > want to be the best, greatness does not come from the ego of the fixed mindset,
+  > with its somebody–nobody syndrome.
+
 ## Business: Mindset and Leadership
+
+- A company that cannot self-correct cannot thrive - example from Enron
+- The type of the leader at the helm of a company matters a lot. 
+- Leaders who have the growth mindset, who are _self-effacing, who constantly asked questions and had the ability to confront the most brutal answered_ had the most impact on their companies successes.
+- It is not about proving themselves but constantly trying to improve themselves.
+- Growth-minded leaders, have a belief in human potential and development - both their own and other people’s.
+- True self-confidence is "the courage to be open - to welcome change and new ideas regardless of their source"
 
 ## Relationships: Mindsets in Love (or not)
 
