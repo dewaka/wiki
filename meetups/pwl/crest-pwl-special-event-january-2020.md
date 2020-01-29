@@ -1,4 +1,4 @@
-# Special Event
+# CREST/PWL Special Event - January, 2020
 
 ## Compiler Fuzzing: How Much Does It Matter
 
