@@ -64,6 +64,10 @@ Book - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/s
 - To understand all is to forgive all
   > Tout comprendre c'est tout pardonner
 - Growth mindset people care more about understanding, forgiving and moving on
+- [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence) - book is recommneded
+- Growth mindset can be applied to yourself, your partner and the relationships themselves
+- Thinking following is a destructive in a relationship,
+  > “If we need to work at it, there’s something seriously wrong with our relationship.”
 
 ## Parents, teachers, and coaches: Where do mindsets come from?
 
