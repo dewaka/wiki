@@ -13,7 +13,7 @@
 
 ## TripleAgent: Monitoring, Perturbation and Failure-obliviousness for Automated Resilience Improvement in Java Applications
 
-- [Martin Monperrus (https://www.monperrus.net/martin)
+- [Martin Monperrus](https://www.monperrus.net/martin)
 - In this paper, we present a novel resilience improvement system for Java applications. 
 - The unique feature of this system is to combine automated monitoring, automated perturbation injection, and automated resilience improvement. 
 - Paper - https://arxiv.org/pdf/1812.10706
@@ -21,3 +21,5 @@
 ## Using MDEOptimiser to quickly apply search-based software engineering to your domain-specific problem
 
 - [Alexandru Burdusel](https://nms.kcl.ac.uk/alex.burdusel/)
+- Related papers
+  - [Model Optimisation for Feature Class allocation using MDEOptimiser: A TTC 2016 Submission](https://www.transformation-tool-contest.eu/2016/solutions/cra/TTC_2016_paper_8.pdf)
