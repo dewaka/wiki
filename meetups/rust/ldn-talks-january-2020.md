@@ -21,3 +21,14 @@
 - Andrius' Twitter - https://twitter.com/AndriusAuc
 - Project - https://github.com/brave/adblock-rust
 - He is part of the team responsible for porting Brave Browser's AdBlock engine over from C++ to Rust, he'll be sharing some insights and experiences of that development process.
+- Pointers from the talk
+  - Used Apple Instruments for profiling
+  - Algorithmic improvements were far more important than the optimisation potential of Rust vs C++
+  - Blocking alogorithm is now close to uBlock's implementation
+  - Brave does uBlock like filtering but also some fingerprinting protectoin which uBlock cannot do since it is not as integrated to the core
+  - Brave and other vendors fund the Easylist maintainer which is an open source collaborative effort
+  - Thanks to really optimised libraries (which does use `unsafe` for performance reasons) this new code did *not* have to use `unsafe`
+    - Rust unsafe code can be disabled by setting following macro - <https://doc.rust-lang.org/nomicon/safe-unsafe-meaning.html>,
+      ```rust
+      #![forbid(unsafe_code)]
+      ```
