@@ -25,6 +25,7 @@
           - [Idris](programming/functional-programming/dependent-types/idris.md)
         - [Continuations](programming/functional-programming/continuations.md)
         - [Category Theory](programming/functional-programming/category-theory.md)
+        - [Total functional programming](programming/functional-programming/total.md)
     - [Concurrent Programming](programming/concurrent/concurrency.md)
       - [Mutex](programming/concurrent/mutex.md)
       - [Semaphores](programming/concurrent/semaphores.md)
