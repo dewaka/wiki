@@ -1,5 +1,7 @@
 # Scala in the City (ITV) - January, 2020
 
+Organizer link - <https://www.signifytechnology.com/blog/2020/01/kick-starting-2020-with-a-spectacular-scala-in-the-city>
+
 ## Functional Game Programming
 
 - Indigo is a soon-to-be-released purely functional game engine, that aims to make creating 2D indie games approachable and fun for Scala / Scala.js programmers.
