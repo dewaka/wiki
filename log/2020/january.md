@@ -44,17 +44,24 @@
 - [The Rise of Worse is Better - Richard P. Gabriel](../../papers/cs/rise-of-worse-is-better.md)
 - [Advantages and Disadvantages of a Monolithic Repository](../../papers/cs/monorepos-seip18.md)
 
+## Meetups
+
+- [CREST/PWL Special Event - January, 2020](../../meetups/pwl/crest-pwl-special-event-january-2020.md)
+- [LDN Talks January, 2020](../../meetups/rust/ldn-talks-january-2020.md)
+- [Scala in the City - January, 2020](../../meetups/scala/scala-in-the-city-january-2020.md)
+
+## Blog entries
+
+- [New Year Resolutions (2020)](https://dewaka.com/blog/2020/01/09/new-year-resolutions-2020/) 
+- [Using sdkman to simplify development](https://dewaka.com/blog/2020/01/16/sdkman-to-simplify-development/)
+- [Semantic Patching with Coccinelle](https://dewaka.com/blog/2020/01/25/semantic-patching/)
+
 ## Films and TV
 
 - [Big Bang Theory](https://www.imdb.com/title/tt0898266/) - Finally finished the series. Even though I didn't like the later series all that much I was sad to see the series finish.
 - [The Marvelous Mrs. Maisel](https://www.imdb.com/title/tt5788792/) - Although not as much as the first two series, I still quite like this series.
 - [You](https://www.imdb.com/title/tt7335184/) - I'm of two minds whether to continue watching this series, which I find quite a bit shallow.
 - [Young Sheldon](https://www.imdb.com/title/tt6226232/)
-
-## Blog entries
-
-- [New Year Resolutions (2020)](https://dewaka.com/blog/2020/01/09/new-year-resolutions-2020/) 
-- [Using sdkman to simplify development](https://dewaka.com/blog/2020/01/16/sdkman-to-simplify-development/)
 
 ## Bookmarks
 
