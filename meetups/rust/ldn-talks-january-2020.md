@@ -32,3 +32,5 @@
       ```rust
       #![forbid(unsafe_code)]
       ```
+  - One of the surprising speedups was using ASCII for string processing, instead of UTF when it was possible to. This is something I have also observed even in Java code. It is a known optimisation in [InternetDomainName](https://guava.dev/releases/24.0-jre/api/docs/com/google/common/net/InternetDomainName.html), for example, to use Ascii internally, when possible.
+  - Even though not used by this specific code, SMID optimisations used by the libraries make a huge difference.
