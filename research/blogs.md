@@ -22,6 +22,7 @@
 - [Stephen Diehl](http://www.stephendiehl.com/posts/decade.html) - One of the best blogs when it comes to Haskell.
 - [Chris Wellons](https://nullprogram.com/)
 - [John A De Goes](http://degoes.net/) - A treasure trove advanced Scala articles.
+- [Edward Z. Yang](http://blog.ezyang.com/)
 
 ### Philosophy
 

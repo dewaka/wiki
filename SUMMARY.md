@@ -26,6 +26,7 @@
         - [Continuations](programming/functional-programming/continuations.md)
         - [Category Theory](programming/functional-programming/category-theory.md)
         - [Total functional programming](programming/functional-programming/total.md)
+        - [Uniqueness Typing](programming/functional-programming/uniqueness-typing.md)
     - [Concurrent Programming](programming/concurrent/concurrency.md)
       - [Mutex](programming/concurrent/mutex.md)
       - [Semaphores](programming/concurrent/semaphores.md)

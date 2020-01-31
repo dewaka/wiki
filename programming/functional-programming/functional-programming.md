@@ -8,6 +8,7 @@
 - [Dependent Types](dependent-types/dependent-types.md)
 - [Category Theory](category-theory.md)
 - [Total Functional Programming](total.md)
+- [Uniqueness Typing](uniqueness-typing.md)
 
 ## Posts
 

@@ -69,3 +69,6 @@
 - 2020-01-27
   - [sar](https://linux.die.net/man/1/sar)
   - [Java CopyOnWriteArrayList](https://www.baeldung.com/java-copy-on-write-arraylist)
+
+- 2020-01-31
+  - `OmitStackTraceInFastThrow` - <https://github.com/SAP/SapMachine/issues/501>
