@@ -199,6 +199,7 @@
     - [The Rise of Worse is Better](papers/cs/rise-of-worse-is-better.md)
     - [Advantages and Disadvantages of a Monolithic Repository](papers/cs/monorepos-seip18.md)
     - [Coccinelle](papers/cs/coccinelle.md)
+    - [Total Functional Programming](papers/cs/total-fp-turner.md)
   - [Psychology](papers/psychology/psychology.md)
   - [Literature](papers/literature/literature.md)
     - [Euclid and Pāṇini](papers/literature/staal1965-euclid-and-panini.md)

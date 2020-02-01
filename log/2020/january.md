@@ -38,6 +38,14 @@
   - The book evoked even stronger emotions for me. I'm not even sure whether to call this book just a run of the mill love story. 
   - The second half is _almost_ religious and spiritual. I found the novel quite nihilistic and religious at the same time.
   - Most of all, I like the brutal honesty of the protagonist who fights till the end to keep his nihilistic world view. I'm not sure whether it is nihilistic - at least he believed in love, so there's something!
+- [Desperate Character](https://www.goodreads.com/book/show/23316532-desperate-characters)
+  - I quite liked the way Paula Fox can pack so much into a single sentence.
+  - Some passages in the book would be considered quite politically incorrect by today's standards, but I cannot fault the book because as with everything art is also a product of its time.
+  - Characters insecurities and flaws are laied bare in a seemingly insignificant event in a very deft manner.
+- [The Road](https://www.goodreads.com/book/show/6288.The_Road)
+  - It took me a little while to get used to the Cormac McCarthy writing style, which I've come to understand is pretty unique.
+  - I _really_ wanted to find out what exactly was that apocalyptic event, but it is never fully revealed. In a way, not revealing what's the underlying event makes the novel universal.
+  - The ending was really emotional and it was responsible for my ultimately high rating for the book.
 
 ## Papers
 
