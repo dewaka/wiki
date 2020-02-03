@@ -68,10 +68,33 @@ Book - [Mindset: The New Psychology of Success](https://www.goodreads.com/book/s
 - Growth mindset can be applied to yourself, your partner and the relationships themselves
 - Thinking following is a destructive in a relationship,
   > “If we need to work at it, there’s something seriously wrong with our relationship.”
+- Daniel Wile, a relationship expert,
+  > choosing a partner is choosing a set of problems
+  The trick is to acknowledge each other's limitations, and build from there
 
 ## Parents, teachers, and coaches: Where do mindsets come from?
 
+- Praising efforts rather than _innate_ ability is a better way to go about giving recognition for kids.
+- Offering constructive criticism is the best course of action.
+- Teachers should not be judgemental.
+- Great teachers love to learn and teaching is a way of learning. Feynmann believed in the same concept.
+- Coach John Wooden,
+  > “You have to apply yourself each day to becoming a little better. By
+  > applying yourself to the task of becoming a little better each and every day
+  > over a period of time, you will become a lot better.”
+
 ## Changing mindsets
 
+- Keeping track of the internal monologue is pretty important.
+- Thinking differently has to be inculcated for a growth mindset.
+- A growht mindset approach can be applied for learning growth mindset as well!
+- All of us both mindsets. So it is important to understand what triggers each type.
+- Things to always keep in mind,
+  
+  > What are the opportunities for learning and growth today? For myself? For the people around me?
 
-
+  > When, where, and how will I embark on my plan?
+  
+  > When, where, and how will I act on my new plan?
+  
+  > What do I have to do to maintain and continue the growth?

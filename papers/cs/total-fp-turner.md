@@ -13,3 +13,5 @@
     | n == 1    = 1
     | otherwise = fib (n-1) + fib (n - 2)
     ```
+- In a non total language, each type contains a `⊥` (`bottom`).
+- In a non-total language such as Haskell, even simple natural identity such as `e - e = 0` cannot be assumed to hold true equationally due to the presence of `⊥`.
