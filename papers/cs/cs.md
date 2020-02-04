@@ -15,6 +15,11 @@
 - [x] [Coccinelle: 10 Years of Automated Evolution in the Linux Kernel](https://hal.inria.fr/hal-01853271/document) - [notes](coccinelle.md)
 - [x] [Semantic Patches for Java Program Transformation](https://drops.dagstuhl.de/opus/volltexte/2019/10814/pdf/LIPIcs-ECOOP-2019-22.pdf) - [notes](coccinelle.md)
 
+
+## Data Structures and Algorithms
+
+- [ ] [Adaptive Software Cache Management](https://dl.acm.org/doi/10.1145/3274808.3274816)
+
 ## Functional programming
 
 - [ ] [Total Functional Programming](http://www.jucs.org/jucs_10_7/total_functional_programming/jucs_10_07_0751_0768_turner.pdf) - [notes](total-fp-turner.md)

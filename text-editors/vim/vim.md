@@ -80,3 +80,4 @@ I'm a big fan of modal editing and specifically Vim.
   ```
 
 	How this works - <https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work>.
+- [Vim regex](http://vimregex.com/)
