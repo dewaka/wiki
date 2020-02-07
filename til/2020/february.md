@@ -15,3 +15,8 @@
 - 2020-02-05
   - [Luigi](https://luigi.readthedocs.io/en/stable/index.html)
   - [Apache Airflow](https://airflow.apache.org/)
+
+- 2020-02-07
+  - [Two Way algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/node26.html)
+    and there's a paper on this - <http://monge.univ-mlv.fr/~mac/Articles-PDF/CP-1991-jacm.pdf>
+  - [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string/index.html)
