@@ -91,6 +91,7 @@
       - [requests](programming-languages/python/libraries/requests.md)
       - [httpx](programming-languages/python/libraries/httpx.md)
     - [Python tools](programming-languages/python/tools/tools.md)
+      - [pyenv](programming-languages/python/tools/pyenv.md)
       - [Pipenv](programming-languages/python/tools/pipenv.md)
       - [mypy](programming-languages/python/tools/mypy.md)
     - [Python Cookbook](programming-languages/python/cookbook.md)
