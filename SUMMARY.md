@@ -55,6 +55,7 @@
       - [JOOQ](programming-languages/java/libraries/jooq.md)
       - [duct-tape](programming-languages/java/libraries/duct-tape.md)
       - [args4j](programming-languages/java/libraries/args4j.md)
+      - [Netty](programming-languages/java/libraries/netty.md)
   - [Scala](programming-languages/scala/scala.md)
     - [Dotty](programming-languages/scala/dotty.md)
     - [Specialization](programming-languages/scala/specialization.md)
