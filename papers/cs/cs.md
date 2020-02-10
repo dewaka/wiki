@@ -27,3 +27,8 @@
 ## Concurrency
 
 - [ ] [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/s/conferences/sosp/2013/papers/p33-david.pdf) - [notes](everything-about-synchronization.md)
+
+## Programming Languages
+
+- [ ] [Stacked Borrows - An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/)
+- [ ] [Java and Scala's type system is unsound](https://dl.acm.org/doi/pdf/10.1145/3022671.2984004)

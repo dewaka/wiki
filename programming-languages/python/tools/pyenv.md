@@ -16,3 +16,9 @@ pyenv virtualenvs
 ```
 pyenv activate iam-cleaner
 ```
+
+### Removing/Uninstalling virtual environment
+
+```
+pyenv uninstall iam-cleaner
+```
