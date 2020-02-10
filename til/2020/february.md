@@ -20,3 +20,7 @@
   - [Two Way algorithm](http://www-igm.univ-mlv.fr/~lecroq/string/node26.html)
     and there's a paper on this - <http://monge.univ-mlv.fr/~mac/Articles-PDF/CP-1991-jacm.pdf>
   - [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string/index.html)
+
+- 2020-02-10
+  - [Zettelkasten: It’s Like GTD for Writing and Here’s Why You Should Consider It](https://writingcooperative.com/zettelkasten-its-like-gtd-for-writing-and-here-s-why-you-should-consider-it-7dddf02be394)
+  - [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)

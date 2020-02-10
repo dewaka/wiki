@@ -91,6 +91,7 @@
     - [Python libraries](programming-languages/python/libraries/libraries.md)
       - [requests](programming-languages/python/libraries/requests.md)
       - [httpx](programming-languages/python/libraries/httpx.md)
+      - [boto3](programming-languages/python/libraries/boto3.md)
     - [Python tools](programming-languages/python/tools/tools.md)
       - [pyenv](programming-languages/python/tools/pyenv.md)
       - [Pipenv](programming-languages/python/tools/pipenv.md)
