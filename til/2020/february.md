@@ -24,3 +24,9 @@
 - 2020-02-10
   - [Zettelkasten: It’s Like GTD for Writing and Here’s Why You Should Consider It](https://writingcooperative.com/zettelkasten-its-like-gtd-for-writing-and-here-s-why-you-should-consider-it-7dddf02be394)
   - [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
+
+- 2020-02-11
+	- [Flyway undo](https://flywaydb.org/documentation/migrations#undo-migrations)
+
+- 2020-02-12
+	- [Python dateutil parser](https://dateutil.readthedocs.io/en/stable/parser.html)
