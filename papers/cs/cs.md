@@ -31,6 +31,6 @@
 ## Programming Languages
 
 - [ ] [Stacked Borrows - An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/)
-- [ ] [Java and Scala's type system is unsound](https://dl.acm.org/doi/pdf/10.1145/3022671.2984004)
-- [ ] [Scalable Component Abstractions](https://lampwww.epfl.ch/~odersky/papers/ScalableComponent.pdf)
+- [ ] [Java and Scala's type system is unsound](https://dl.acm.org/doi/pdf/10.1145/3022671.2984004) 
+- [ ] [Scalable Component Abstractions](https://lampwww.epfl.ch/~odersky/papers/ScalableComponent.pdf) - [notes](scalable-component-abstractions.md)
 - [ ] [A Path To DOT: Formalizing Fully Path-Dependent Types](https://arxiv.org/pdf/1904.07298.pdf)

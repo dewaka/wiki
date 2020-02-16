@@ -30,3 +30,6 @@
 
 - 2020-02-12
 	- [Python dateutil parser](https://dateutil.readthedocs.io/en/stable/parser.html)
+
+- 2020-02-15
+  - [FNV Hash](http://www.isthe.com/chongo/tech/comp/fnv/index.html)

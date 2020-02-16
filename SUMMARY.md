@@ -203,6 +203,7 @@
     - [Advantages and Disadvantages of a Monolithic Repository](papers/cs/monorepos-seip18.md)
     - [Coccinelle](papers/cs/coccinelle.md)
     - [Total Functional Programming](papers/cs/total-fp-turner.md)
+    - [Scalable Component Abstractions](papers/cs/scalable-component-abstractions.md)
   - [Psychology](papers/psychology/psychology.md)
   - [Literature](papers/literature/literature.md)
     - [Euclid and Pāṇini](papers/literature/staal1965-euclid-and-panini.md)
