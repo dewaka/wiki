@@ -33,3 +33,10 @@
 
 - 2020-02-15
   - [FNV Hash](http://www.isthe.com/chongo/tech/comp/fnv/index.html)
+
+- 2020-02-17
+  - [Docker system prune](https://docs.docker.com/engine/reference/commandline/system_prune/) - A docker prune was required to get rid of a [testcontiners](https://www.testcontainers.org/) issue in (Java) integration tests at work.
+    - Command - `docker system prune --volumes`
+
+- 2020-02-19
+  - [real-logic/aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
