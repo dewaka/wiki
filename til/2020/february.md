@@ -40,3 +40,6 @@
 
 - 2020-02-19
   - [real-logic/aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
+
+- 2020-02-20
+  - [SQLite DB Migrations with PRAGMA user_version](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)

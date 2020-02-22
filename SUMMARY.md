@@ -11,6 +11,7 @@
     - [Skip Lists](computer-science/data-structures/skip-lists.md)
   - [Algorithms](computer-science/algorithms/algorithms.md)
     - [Hashing](computer-science/algorithms/hashing.md)
+    - [Eller's Algorithm](computer-science/algorithms/eller.md)
   - [Formal verification](computer-science/formal-verification/formal-verification.md)
       - [Coq](computer-science/formal-verification/coq.md)
       - [Lean](computer-science/formal-verification/lean.md)

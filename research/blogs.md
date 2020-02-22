@@ -11,6 +11,7 @@
 - [Gilad Bracha - Room 101](https://gbracha.blogspot.com/)
 - [fogus: Send More Paramedics](http://blog.fogus.me/) - (co)author of [Joy of Clojure](https://www.goodreads.com/book/show/8129142-the-joy-of-clojure) and one of my aspirational models!
 - [antirez - Salvatore Sanfilippo](http://antirez.com/) - author of Redis and all around C expert
+- [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/) - A web site dedicated to Concurrent algorithms and patterns.
 - [Julia Evans](https://jvns.ca) - has a knack for explaining things clearly
 - [Brandur](https://brandur.org/articles) - his technical posts are informative and beautiful to the same degree!
 - [Sacha Chua](https://sachachua.com/) - awesome Emacs and life tips 
