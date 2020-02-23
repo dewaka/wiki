@@ -117,6 +117,8 @@
 * [LLVM](llvm/llvm.md)
   - [Clang tools](llvm/clang-tools.md)
 * [Operating systems](operating-systems/os.md)
+  - [Securing operating systems](operating-systems/os/security/security.md)
+    - [Capsicum](operating-systems/os/security/capsicum.md)
 * [Linux](linux/linux.md)
 	- [Packaging](linux/packaging/packaging.md)
     - [RPM](linux/packaging/rpm.md)
