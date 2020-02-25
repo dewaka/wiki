@@ -43,3 +43,6 @@
 
 - 2020-02-20
   - [SQLite DB Migrations with PRAGMA user_version](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
+
+- 2020-02-25
+  - [RoaringBitmap](http://roaringbitmap.org/) and paper [Consistently faster and smaller compressed bitmaps with Roaring](https://arxiv.org/pdf/1603.06549.pdf).
