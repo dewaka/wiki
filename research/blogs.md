@@ -26,6 +26,7 @@
 - [Chris Wellons](https://nullprogram.com/)
 - [John A De Goes](http://degoes.net/) - A treasure trove advanced Scala articles.
 - [Edward Z. Yang](http://blog.ezyang.com/)
+- [Tom Ryder](https://sanctum.geek.nz/)
 
 ### Philosophy
 
