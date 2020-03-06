@@ -28,6 +28,10 @@
 - [Edward Z. Yang](http://blog.ezyang.com/)
 - [Tom Ryder](https://sanctum.geek.nz/)
 
+### Personal Development
+
+- [Farnam Street](https://fs.blog)
+
 ### Philosophy
 
 - [Zen habits - Leo Babauta](https://zenhabits.net/)
