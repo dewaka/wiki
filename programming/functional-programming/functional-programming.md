@@ -9,6 +9,8 @@
 - [Category Theory](category-theory.md)
 - [Total Functional Programming](total.md)
 - [Uniqueness Typing](uniqueness-typing.md)
+- [GADT](gadt.md)
+- [Tagless Final](tagless-final.md)
 
 ## Posts
 

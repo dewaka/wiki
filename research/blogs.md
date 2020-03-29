@@ -9,6 +9,8 @@
 - [Agner Fog](https://www.agner.org/)
 - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
 - [Gilad Bracha - Room 101](https://gbracha.blogspot.com/)
+- [Daniel Spiewak](http://www.codecommit.com/)
+- [Paul Chiusano](https://pchiusano.github.io/)
 - [fogus: Send More Paramedics](http://blog.fogus.me/) - (co)author of [Joy of Clojure](https://www.goodreads.com/book/show/8129142-the-joy-of-clojure) and one of my aspirational models!
 - [antirez - Salvatore Sanfilippo](http://antirez.com/) - author of Redis and all around C expert
 - [Concurrency Freaks](https://concurrencyfreaks.blogspot.com/) - A web site dedicated to Concurrent algorithms and patterns.

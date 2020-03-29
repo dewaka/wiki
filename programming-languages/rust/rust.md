@@ -17,3 +17,8 @@
 ## Papers
 
 - [Papers Rust is borrows heavily from](https://doc.rust-lang.org/1.2.0/book/academic-research.html)
+
+## Live Coders
+
+- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+- [Yoshua Wuyts](https://www.youtube.com/user/yoshomg)
