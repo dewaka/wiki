@@ -16,3 +16,6 @@ abbr -a -g nu   nix-updt
 abbr -a -g ngc  nix-collect-garbage
 ```
 
+## Resources
+
+- [Nixology](https://www.youtube.com/watch?v=NYyImy-lqaA&list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)
