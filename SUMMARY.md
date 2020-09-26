@@ -214,6 +214,8 @@
     - [Euclid and Pāṇini](papers/literature/staal1965-euclid-and-panini.md)
 * [Courses](courses/courses.md)
   - [Computer Science](courses/cs.md)
+* [Certifications](certifications/certifications.md)
+  - [AWS](certifications/aws/aws.md)
 * [Devops](devops/devops.md)
   - [Ansible](devops/ansible.md)
   - [Puppet](devops/puppet.md)

@@ -1,0 +1,3 @@
+[submodule "certifications/aws/saa-c02"]
+	path = certifications/aws/saa-c02
+	url = https://github.com/dewaka/saa-c02-notes.git
