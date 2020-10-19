@@ -268,3 +268,4 @@
     - [April](til/2020/april.md)
     - [May](til/2020/may.md)
     - [June](til/2020/june.md)
+    - [October](til/2020/october.md)
